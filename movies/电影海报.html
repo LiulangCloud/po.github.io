@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./movies.css">
+</head>
+
+<body>
+    <section class="poster">
+        <div class="bg"></div>
+        <img src="./images/2.png" alt="">
+        <img src="./images/3.png" alt="">
+        <img src="./images/4.png" alt="">
+        <img src="./images/5.png" alt="">
+        <div class="shine"></div>
+    </section>
+
+    <script src="./JS/jquery.min.js"></script>
+    <script>
+
+        // var w = window.innerWidth;
+        // var h = window.innerHeight;
+        // console.log( w,h );
+        // //给body绑定鼠标移动事件
+        // $("body").mousemove(function (e) {
+        //     //获取鼠标移动的位置
+        //     var x = e.clientX;
+        //     var y = e.clientY;
+        //     // console.log(x, y);
+        //     // console.log($(".bg"));
+
+        //     $(".bg").css("transfrom", "rotateX(" + (-2 / (h / 2)) * (h / 2 - y) + "deg) rotateY(" + (2 / (w / 2)) * (w / 2 - x) +"deg)")
+
+        //     $(".shine").css("transfrom", "rotateX(" + (-2 / (h / 2)) * (h / 2 - y) + "deg) rotateY(" + (2 / (w / 2)) * (w / 2 - x) +"deg)");
+
+        //     $("img").each(function( index,item ){
+        //         // console.log(item);
+        //         $(item).css("transfrom","translate(" + (3 / (w / 2)) * (w / 2 - x) + "px, " + (3 / (h / 2)) * (h / 2 - y) + "px)")
+        //     })
+        // })
+
+        var poster = document.querySelector(".poster");
+        var bg = document.querySelector(".bg");
+        var imgs = document.querySelectorAll("img");
+        var shine = document.querySelector(".shine");
+
+        var wvh = window.innerWidth;
+        var hvh = window.innerHeight;
+
+        //给body绑定鼠标移动事件
+        document.body.onmousemove = function (e) {
+            // 获取鼠标移动的位置
+            var x = e.clientX;
+            var y = e.clientY;
+
+            var vh = x > wvh / 2 ? '左' : '右';
+            var he = y > hvh / 2 ? '上' : "下";
+            console.log(vh,he);
+
+            //设置计算背景翻转角度
+            bg.style.transform =
+                "rotateX(" +
+                (-4 / (hvh / 2)) * (hvh / 2 - y) +
+                "deg) rotateY(" +
+                (4 / (wvh / 2)) * (wvh / 2 - x) +
+                "deg)";
+            shine.style.transform =
+                "rotateX(" +
+                (-4 / (hvh / 2)) * (hvh / 2 - y) +
+                "deg) rotateY(" +
+                (4 / (wvh / 2)) * (wvh / 2 - x) +
+                "deg)";
+
+            //设置计算图片平移的位置
+            imgs.forEach(function (item) {
+                item.style.transform =
+                    "translate(" + (3 / (wvh / 2)) * (wvh / 2 - x) + "px, " + (3 / (hvh / 2)) * (hvh / 2 - y) + "px)";
+            });
+        }
+
+    </script>
+</body>
+
+</html>

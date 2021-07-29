@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.po-ab {
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.po-re {
+  position: relative;
+}
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: slategray;
+  perspective: 500px;
+}
+.poster {
+  position: relative;
+  width: 320px;
+  height: 500px;
+  border-radius: 5px;
+}
+.poster .bg {
+  background-image: url(images/1.png);
+  background-size: 100% auto;
+  background-position: top center;
+  border-radius: 10px;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+}
+.poster img {
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1;
+}
+.poster .shine {
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  background-image: linear-gradient(0deg, rgba(26, 230, 87, 0.863), transparent);
+  z-index: 0;
+  border-radius: 10px;
+}
+/*# sourceMappingURL=./movies.css.map */
