@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .volume_range input[type="range"]::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            border-radius: 50%;
+            background: rgb(255, 208, 0 ,.8);
+            width: 20px;
+            height: 20px;
+        }
+
+        .time_range input[type="range"]::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            border-radius: 50%;
+            background: rgb(255, 208, 0);
+            width: 10px;
+            height: 10px;
+            opacity: 0;
+        }
+    </style>
+    <link rel="stylesheet" href="./播放栏.css">
+</head>
+
+<body>
+
+    <div class="audio_box">
+
+        <div class="cent">
+
+            <!-- 图像 -->
+            <div class="music_img">
+                <img src="https://p2.music.126.net/L0qDyMyzvX26uag1Fgge6A==/109951166096127557.jpg?param=130y130">
+            </div>
+
+            <div class="icon">
+                <!-- 收藏 -->
+                <span class="music_like">
+                    <img src="./播放器图标/喜欢.png">
+                </span>
+                <!-- 顺序 -->
+                <span class="music_sequence">
+                    <img src="./播放器图标/单曲循环.png">
+                </span>
+                <!-- 上一首 -->
+                <span class="music_Previous">
+                    <img src="./播放器图标/上一曲.png">
+                </span>
+                <!-- 暂停/播放 -->
+                <span class="music_Pause">
+                    <img src="./播放器图标/播放.png" id="start">
+                </span>
+                <!-- 下一首 -->
+                <span class="music_next">
+                    <img src="./播放器图标/下一曲.png">
+                </span>
+                <!-- 音量 -->
+                <span class="music_volume">
+                    <img src="./播放器图标/静音.png" id="mute">
+                </span>
+
+                <div class="volume_range">
+                    <input type="range" min="0" max="0.9" step="0.1" value="0">
+                    <!-- <span class="thu"></span> -->
+                </div>
+            </div>
+        </div>
+
+        <div class="time_range">
+            <input type="range" value="0">
+            <span class="yuan"></span>
+            <span class="t_range"></span>
+        </div><br>
+        <!-- <img src="./播放器图标/音量加.png" alt=""> -->
+        <audio controls autoplay src="../imges-videos/高雅先生-败德盖.mp3"></audio>
+    </div>
+
+    <script>
+        var Pause = document.querySelector(".music_Pause");
+        var audio = document.querySelector("audio");
+        var img = document.querySelector(".music_Pause img");
+        var music_img = document.querySelector(".music_img");
+        //点击播放图标播放暂停
+        Pause.onclick = function () {
+            if (img.id == "start") {
+                img.src = "./播放器图标/暂停.png";
+                img.id = "pause";
+                music_img.classList.add("active");
+                audio.play();
+
+            } else if (img.id == "pause") {
+                img.src = "./播放器图标/播放.png"
+                img.id = "start"
+                music_img.classList.remove("active");
+                audio.pause();
+            }
+        }
+
+        //音频开始播放时更换图标
+        audio.onplay = function () {
+            img.src = "./播放器图标/暂停.png";
+            img.id = "pause";
+        }
+        //音频开始播放结束时更换图标
+        audio.onended = function () {
+            img.src = "./播放器图标/播放.png"
+            img.id = "start"
+        }
+
+        // muted	设置或返回音频是否静音
+        // volume	设置或返回音频的音量
+
+        var volImg = document.querySelector(".music_volume img");
+        var voRange = document.querySelector("input[type='range']");
+        var thu = document.querySelector(".volume_range .thu");
+        // console.log(thu);
+        //设置音量初始值为0.5
+        audio.volume = 0.5;
+
+        //点击静音
+        volImg.onclick = function () {
+            console.log(this);
+            if (this.id == "mute") {
+                audio.volume = 0;
+                this.id = "voiced";
+            } else if (this.id == "voiced") {
+                audio.volume = 0.5;
+                this.id = "mute";
+            }
+        }
+
+        // thu.style.width = this.value;
+        // console.log(this.value);
+        // console.log( voRange.style.width );
+
+        voRange.oninput = function () {
+            audio.volume = this.value;
+        }
+
+        //获取音量当前位置
+        audio.onvolumechange = function () {
+
+            // console.log(audio.volume);
+            if (audio.volume == 0) {
+                volImg.src = "./播放器图标/静音.png";
+                voRange.value = audio.volume;
+            } else if (audio.volume > 0 && audio.volume < 0.5) {
+                volImg.src = "./播放器图标/音量减.png";
+                voRange.value = audio.volume;
+            } else if (audio.volume >= 0.5) {
+                volImg.src = "./播放器图标/音量加.png";
+                voRange.value = audio.volume;
+            }
+        }
+
+        audio.currentTime = 0;
+
+        var timeRange = document.querySelector(".time_range input[type='range']");
+
+        var flag = true;
+
+        timeRange.oninput = function () {
+            // console.log( timeRange.value );
+            if( timeRange != 100 ){
+                img.src = "./播放器图标/暂停.png"
+                img.id = "start";
+                music_img.classList.add("active");
+                audio.play();
+            }
+            audio.currentTime = (timeRange.value / 100) * audio.duration;
+            // flag = true;
+        }
+
+
+        //获取音频事件进度条
+        audio.ontimeupdate = function () {
+
+            // flag = false;
+            var v = (audio.currentTime / audio.duration) * 100;
+            // console.log(v);
+            timeRange.value = v;
+            document.querySelector(".t_range").style.width = v + "%";
+            // flag = true;
+
+            // console.log( audio.currentTime );
+        
+            //返回播放位置
+            // audio.currentTime;
+            //音频长度
+            // 进度条长度等于音频时间长度
+            // timeRange.max = audio.duration;
+
+            // timeRange.value = v  ;
+
+        }
+
+
+    </script>
+</body>
+
+</html>
