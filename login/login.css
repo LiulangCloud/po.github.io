@@ -1,0 +1,120 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: #1f2029;
+  background-image: url(https://www.17sucai.com/preview/1097306/2020-11-18/dlcc/images/pat.svg);
+}
+.box {
+  width: 440px;
+  height: 400px;
+  margin: 100px auto;
+  background-color: #2a2b38;
+  background-image: url("https://www.17sucai.com/preview/1097306/2020-11-18/dlcc/images/pat.svg");
+  border-radius: 100px 30px 10px 10px;
+  position: relative;
+  transform-style: preserve-3d;
+  perspective: 500px;
+  transition: all 0.7s linear;
+}
+.box .login {
+  width: 440px;
+  height: 400px;
+  position: absolute;
+  display: block;
+  text-align: center;
+  color: white;
+  transform: translateZ(10px);
+}
+.box .login h1 {
+  margin-top: 50px;
+}
+.box .login input {
+  display: block;
+  margin: 20px auto;
+}
+.box .login input[type=email],
+.box .login input[type=password] {
+  width: 337px;
+  height: 50px;
+  outline: none;
+  padding-left: 50px;
+  color: springgreen;
+  border: 1px solid black;
+  border-radius: 6px;
+  font-size: 20px;
+  background-color: #1f2029;
+}
+.box .login input[type=submit] {
+  width: 92px;
+  height: 46px;
+  border: none;
+  color: black;
+  background-color: #f3d97f;
+  border-radius: 6px;
+  opacity: 0.7;
+}
+.box .login input[type=submit]:hover {
+  opacity: 1;
+}
+.box .login .txt {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 20px;
+}
+.box .login .txt i {
+  text-decoration: underline;
+  cursor: pointer;
+}
+.box .signin {
+  width: 440px;
+  height: 400px;
+  position: absolute;
+  display: block;
+  text-align: center;
+  color: white;
+  transform: translateZ(-10px) rotateY(180deg);
+}
+.box .signin h1 {
+  margin-top: 35px;
+}
+.box .signin input {
+  display: block;
+  margin: 10px auto;
+}
+.box .signin input[type=username],
+.box .signin input[type=email],
+.box .signin input[type=password] {
+  width: 337px;
+  height: 50px;
+  outline: none;
+  color: springgreen;
+  padding-left: 50px;
+  border: 1px solid black;
+  border-radius: 6px;
+  font-size: 20px;
+  background-color: #1f2029;
+}
+.box .signin input[type=submit] {
+  width: 92px;
+  height: 46px;
+  border: none;
+  color: black;
+  background-color: #f3d97f;
+  border-radius: 6px;
+  margin: 20px auto;
+  opacity: 0.7;
+}
+.box .signin input[type=submit]:hover {
+  opacity: 1;
+}
+.box .signin .txt i {
+  text-decoration: underline;
+  cursor: pointer;
+}
+.box.active {
+  transform: rotateY(180deg);
+  transition: all 0.7s linear;
+}
+/*# sourceMappingURL=./login.css.map */
