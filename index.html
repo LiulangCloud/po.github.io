@@ -1,18 +1,273 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="./bootstrap/css/bootstrap.css">
+    <script src="https://cdn.bootcdn.net/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="./bootstrap/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="./index.css">
+    <link rel="stylesheet" href="./footer.css">
 </head>
+
 <body>
-    <h1>
-        一次尝试
-    </h1>
-    <a href="./movies/电影海报.html">海报</a>
-    <a href="./audio/案例/播放器.html">播放器</a>
-    <a href="./login/login.html">登录界面</a>
-    <a href="./Weather Forecast/天将降大任于斯人也.html">天气预报</a>
+    <!-- 导航栏 start -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="#"><img src="./images/mylogo.png" alt=""></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+                aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="#">我的首页 <span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">收藏</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+                            data-toggle="dropdown" aria-expanded="false">
+                            笔记
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item" href="#">Action</a>
+                            <a class="dropdown-item" href="#">Another action</a>
+                            <div class="dropdown-divider"></div>
+                            <a class="dropdown-item" href="#">Something else here</a>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">音乐</a>
+                    </li>
+                </ul>
+                <form class="form-inline my-2 my-lg-0">
+                    <input class="form-control mr-sm-2" type="search" placeholder="别搜了，啥也没有🥱" aria-label="Search">
+                    <button class="btn btn-outline-success my-2 my-sm-0" type="submit">点=白点</button>
+                </form>
+            </div>
+        </div>
+    </nav>
+    <!-- 导航栏 end -->
+    <!-- 轮播图 start-->
+    <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel">
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="./images/m-6.jpg" class="d-block w-100" alt="...">
+            </div>
+            <div class="carousel-item">
+                <img src="./images/m-7.jpg" class="d-block w-100" alt="...">
+            </div>
+            <div class="carousel-item">
+                <img src="./images/m-8.jpg" class="d-block w-100" alt="...">
+            </div>
+        </div>
+        <a class="carousel-control-prev" href="#carouselExampleFade" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#carouselExampleFade" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
+    </div>
+    <!-- 轮播图 end -->
+
+    <!-- <div class="media">
+        <img class="align-self-start mr-3" src="./images/hzw-1.jpg" alt="Generic placeholder image">
+        <div class="media-body">
+          <h5 class="mt-0">Top-aligned media</h5>
+          <p>Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.</p>
+          <p>Donec sed odio dui. Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+        </div>
+      </div>
+      <div class="media">
+        <img class="align-self-center mr-3" src="./images/hzw-1.jpg" alt="Generic placeholder image">
+        <div class="media-body">
+          <h5 class="mt-0">Center-aligned media</h5>
+          <p>Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.</p>
+          <p class="mb-0">Donec sed odio dui. Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+        </div>
+      </div> -->
+
+    <!-- <div class="card text-center">
+        <div class="card-header">
+          <ul class="nav nav-tabs card-header-tabs">
+            <li class="nav-item">
+              <a class="nav-link active" href="#">Active</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Link</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link disabled" href="#">Disabled</a>
+            </li>
+          </ul>
+        </div>
+        <div class="card-body">
+          <h5 class="card-title">Special title treatment</h5>
+          <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+          <a href="#" class="btn btn-primary">Go somewhere</a>
+        </div>
+      </div> -->
+
+    <!-- 卡片组 start -->
+    <div class="card-group">
+        <div class="card">
+            <img class="card-img-top" src="./images/m-1.jpg" alt="Card image cap">
+            <div class="card-body">
+                <h5 class="card-title">差很多意思的海报</h5>
+                <p class="card-text"><a href="#"> This is a wider card with supporting text below as a natural lead-in to additional
+                    content. This content is a little bit longer.</a></p>
+                <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+            </div>
+        </div>
+        <div class="card">
+            <img class="card-img-top" src="./images/m-3.jpg" alt="Card image cap">
+            <div class="card-body">
+                <h5 class="card-title">差很多意思的音乐播放器</h5>
+                <p class="card-text"><a href="#">This is a wider card with supporting text below as a natural lead-in to additional
+                    content. This content is a little bit longer.</a></p>
+                <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+            </div>
+        </div>
+        <div class="card">
+            <img class="card-img-top" src="./images/m-4.jpg" alt="Card image cap">
+            <div class="card-body">
+                <h5 class="card-title">就一点意思的天气预报</h5>
+                <p class="card-text"><a href="#">This is a wider card with supporting text below as a natural lead-in to additional
+                    content. This content is a little bit longer.</a></p>
+                <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+            </div>
+        </div>
+        <div class="card">
+            <img class="card-img-top" src="./images/m-5.jpg" alt="Card image cap">
+            <div class="card-body">
+                <h5 class="card-title">别踩白块</h5>
+                <p class="card-text"><a href="#">This card has supporting text below as a natural lead-in to additional content.</p>
+                    <p class="card-text"><small class="text-muted">Last updated 3 mins ago</a></small></p>
+            </div>
+        </div>
+        <div class="card">
+            <img class="card-img-top" src="./images/m-8.jpg" alt="Card image cap">
+            <div class="card-body">
+                <h5 class="card-title">没找到可以放的东西</h5>
+                <p class="card-text"><a href="#">This is a wider card with supporting text below as a natural lead-in to additional
+                    content. This card has even longer content than the first to show that equal height action.</a></p>
+                <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+            </div>
+        </div>
+    </div>
+    <!-- 卡片组 end -->
+
+    <div class="jumbotron">
+        <h1 class="display-3">Hello, world!</h1>
+        <p class="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to
+            featured content or information.</p>
+        <hr class="my-4">
+        <p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
+        <p class="lead">
+            <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+        </p>
+    </div>
+
+
+
+    <!-- 卡片组 start -->
+    <div class="card-group">
+        <div class="card">
+            <img class="card-img-top" src="./images/m-4.jpg" alt="Card image cap">
+            <div class="card-body">
+                <h5 class="card-title">Card title</h5>
+                <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional
+                    content. This content is a little bit longer.</p>
+                <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+            </div>
+        </div>
+        <div class="card">
+            <img class="card-img-top" src="./images/m-5.jpg" alt="Card image cap">
+            <div class="card-body">
+                <h5 class="card-title">Card title</h5>
+                <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+                <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+            </div>
+        </div>
+        <div class="card">
+            <img class="card-img-top" src="./images/m-8.jpg" alt="Card image cap">
+            <div class="card-body">
+                <h5 class="card-title">Card title</h5>
+                <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional
+                    content. This card has even longer content than the first to show that equal height action.</p>
+                <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+            </div>
+        </div>
+    </div>
+    <!-- 卡片组 end -->
+
+    <div class="container">
+        <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
+            <li class="nav-item">
+                <a class="nav-link active" id="pills-home-tab" data-toggle="pill" href="#pills-home" role="tab"
+                    aria-controls="pills-home" aria-selected="true">Home</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" id="pills-profile-tab" data-toggle="pill" href="#pills-profile" role="tab"
+                    aria-controls="pills-profile" aria-selected="false">Profile</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" id="pills-contact-tab" data-toggle="pill" href="#pills-contact" role="tab"
+                    aria-controls="pills-contact" aria-selected="false">Contact</a>
+            </li>
+        </ul>
+        <div class="tab-content" id="pills-tabContent">
+            <div class="tab-pane fade show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">This is
+                a wider card with supporting text below as a natural lead-in to additional content. This card has even
+                longer content than the first to show that equal height action.This is a wider card with supporting text
+                below as a natural lead-in to additional content. This card has even longer content than the first to show
+                that equal height action.</div>
+            <div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">This is a
+                wider card with supporting text below as a natural lead-in to additional content. This card has even longer
+                content than the first to show that equal height action.This is a wider card with supporting text below as a
+                natural lead-in to additional content. This card has even longer content than the first to show that equal
+                height action.</div>
+            <div class="tab-pane fade" id="pills-contact" role="tabpanel" aria-labelledby="pills-contact-tab">This is a
+                wider card with supporting text below as a natural lead-in to additional content. This card has even longer
+                content than the first to show that equal height action.This is a wider card with supporting text below as a
+                natural lead-in to additional content. This card has even longer content than the first to show that equal
+                height action.</div>
+        </div>
+    </div>
+
+    <!-- 页脚 begin -->
+    <div class="footer">
+        <div class="box4">
+            <div class="top">
+                <div class="left">
+                    <div></div>联系我<div>想的美</div>
+                    <div>XXX</div>
+                    <div>加入我</div>
+                    <div>做梦吧</div>
+                </div>
+                <div class="right">
+                    <div>我的微博</div>
+                    <div>我的微信</div>
+                </div>
+            </div>
+            <hr>
+            <div class="bottom">
+                <p>客服热线: 400 8536 100周一至周日9:00- 21:00 I在线客服:趣学网-我-在线客服|违法和不良信息举报电话: 400 8536 100转7 |举报邮箱:
+                    gwykf@quxue.com I网上有害信息举报|教APP备1101517号
+                </p>
+            </div>
+        </div>
+    </div>
+    <!-- 页脚 end -->
 </body>
+
 </html>
