@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        body{
+            /* background: skyblue ; */
+            background-image: url("../images/m-3.jpg");
+            background-size: 100%;
+        }
+        button{
+            width: 300px;
+            height: 30px;
+            display: block;
+            margin:  0 auto;
+            margin-top: 50px;
+            font-size: 20px;
+            /* position: absolute;
+            top: 600px;
+            left: 700px; */
+        }
+        input{
+            /* margin:  0 auto; */
+            margin:  0 auto;
+            margin-top: 100px;
+            display: block;
+            width: 200px;
+            height: 20px;
+            font-size: 20px;
+            background: skyblue;
+            /* margin-left: 1000px; */
+            
+        }
+        .big{
+            position: relative;
+            width: 400px;
+            height: 400px;
+            margin: 0 auto;
+            margin-top: 50px;
+            /* background-image: url(./新建文件夹/one.jpg); */
+            /* background: skyblue; */
+            /* margin-left: 100px; */
+            border: 1px solid orange;
+            border-radius: 10px;
+            overflow: hidden;
+        }
+        .big .box{
+            position: absolute;
+            top: -50px;
+            left: 0;
+        }
+        .big .box .line .check{
+            list-style: none;
+            width: 98px;
+            height: 98px;
+            border: 1px solid #999;
+            float: left;
+        }
+        .big .box .line .check.active{
+            /* background-image: url("./新建文件夹/surprise.png"); */
+            background: rgba(23, 33, 33, 0.5);
+            
+        }
+    </style>
+</head>
+<body>
+    <input type="text" value="0" disabled>
+    <button>别踩了！别踩了！别踩这里!🦨</button>
+    <div class="big">
+        <div class="box">
+            <!-- <div class="line">
+                <li class="check active"></li>
+                <li class="check"></li>
+                <li class="check"></li>
+                <li class="check"></li>
+            </div> -->
+            <!-- <div class="line">
+                <li class="check"></li>
+                <li class="check active"></li>
+                <li class="check"></li>
+                <li class="check"></li>
+            </div>
+            <div class="line">
+                <li class="check"></li>
+                <li class="check"></li>
+                <li class="check active"></li>
+                <li class="check"></li>
+            </div>
+            <div class="line">
+                <li class="check"></li>
+                <li class="check"></li>
+                <li class="check"></li>
+                <li class="check active"></li>
+            </div> -->
+        </div>
+    </div>
+
+    <!-- <script src="$.js"></script> -->
+    <script>
+        //定义游戏区构造函数
+        function Game(){
+            //定义属性
+            //获取游戏的dom对象
+            this.gameDom = document.querySelector(".box");
+            //定义下落速度
+            this.speed = 1;
+            //定义标识符
+            this.timer = null;
+            //定义状态符
+            this.isOver = false;
+            //定义一个分数变量
+            this.num = 0;
+            //获取文本框value值
+            this.numInput = document.querySelector("input")
+            //获取按钮
+            this.btn = document.querySelector("button");
+            //调用初始化方法
+            this.init();
+        };
+
+        //游戏下落方法
+        Game.prototype.moveDown = function(){
+            //缓存this
+            // var this = this;
+                //开启定时器
+            this.timer = window.setInterval( function(){
+                //获取box的top属性值
+                var boxTop = this.gameDom.offsetTop;
+                this.gameDom.style.top = boxTop + this.speed +"px";
+                if( boxTop >= 0  ){
+                    //设置步长值
+                    //创建行
+                    this.createLine();
+                    //删除行
+                    this.removeLine();
+                    
+                }
+                //当gameDom的子节点长度大于4时执行触底方法
+                if( this.gameDom.children.length > 4 ){
+                   //黑块触底时停止定时器
+                   this.touchBottom();
+               }
+
+            }.bind( this ) ,15)
+        }
+        //游戏最前面添加一行方法
+        Game.prototype.createLine = function(){
+                //创建行
+                var newDiv = document.createElement("div");
+                newDiv.className = "line"
+                //获取1到4的随机数
+                var random = Math.floor( Math.random()*(4-1+1)+1 );
+                //循环遍历生成4列
+                for( var i = 1;i<=4;i++ ){
+                    //创建li标签
+                    var newLi = document.
+                    createElement("li");
+                    //添加类名
+                    newLi.className = "check";
+                    //当随机数等于遍历创建的li标签，绑定active类,生成黑块
+                    if( random == i ){
+                        // 添加类名，生成黑块
+                        newLi.classList.add("active");
+                    }
+                    //把列添加到行里面
+                    newDiv.appendChild( newLi );
+                }
+                //把新的一行添加到最前面
+                this.gameDom.insertBefore( newDiv , this.gameDom.firstChild );
+                //再次把box的top值设置为-100
+                this.gameDom.style.top = -100 +"px";
+                // box.insertBefore( newDiv );
+
+        }
+        //游戏最后一行删除方法
+        Game.prototype.removeLine = function(){
+            if( this.gameDom.children.length > 5 ){
+                this.gameDom.lastElementChild.remove();
+            }
+        }
+        //游戏被点击的方法
+        Game.prototype.handleClick = function(){
+            //缓存this
+            // var that = this;
+            this.gameDom.onclick = function( e ){
+                e = e || window.event;
+                if( this.isOver ){
+                    alert("点击按钮，刷新页面重新开始");
+                }else{
+                    //判断点击的目标是否存在active类
+                    if( e.target.className == "check active" ){
+                        //删除类
+                        e.target.classList.remove("active");
+                        //点击黑块后添加自定义属性
+                        e.target.parentNode.setAttribute("data-pass",true);
+                        //计数
+                        this.num++
+                        this.numInput.value = this.num;
+                        //判断当value值%5等于0时增加下落速度
+                        if( this.num % 5 == 0 ){
+                            this.speed++
+                        }
+
+                    }else{
+                        // 点击白块时
+                        alert("错啦!在旁边呢!!重新来吧，朋友🥱")
+                        //关闭定时器
+                        window.clearInterval( this.timer );
+                        //改变游戏状态
+                        this.isOver = true;
+                    }
+                }
+            }.bind( this );
+        }
+        //判断游戏最后一行是否存在黑块方法
+        Game.prototype.touchBottom = function(){
+            //判断当自定义属性触底时，清除定时器
+            if( this.gameDom.lastElementChild.getAttribute("data-pass") === null ){
+                alert("跟不上了？不行了？该努力了，朋友🤔");
+                // 清除定时器
+                window.clearInterval( this.timer );
+                //改变状态
+                this.isOver = true;
+            }
+        }
+        //点击刷新页面
+        Game.prototype.refresh = function(){
+            
+            this.btn.onclick = function(){
+                location.reload();
+                console.log(111);
+            }
+        }
+        //游戏初始化方法
+        Game.prototype.init = function(){
+            //调用游戏区掉落方法
+            this.moveDown();
+            //调用点击事件方法
+            this.handleClick();
+
+            this.refresh();
+        };
+
+        new Game();
+        
+        </script>
+</body>
+</html>
