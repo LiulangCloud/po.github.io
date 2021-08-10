@@ -25,11 +25,11 @@ body {
     justify-content: space-between;
     transition: all 2s linear;
   }
-  .show a {
+  .show a{
     text-decoration: none;
     color: white;
   }
-  .show a .card {
+  .show .card {
     width: 200px;
     height: 200px;
     background-color: #1b1b1b45;
@@ -39,10 +39,12 @@ body {
     justify-content: center;
     box-shadow: -13px 10px 10px #9999994f;
   }
-  .show a .card:hover {
+  .show .card:hover {
     transition: all 2s cubic-bezier(0.17, 0.9, 1, 1);
     transform: scale(1.2);
     box-shadow: 0px 1px 20px 10px #9999994f;
+  }
+  .show .card a:hover{
     font-family: Fredoka One;
     color: springgreen;
   }

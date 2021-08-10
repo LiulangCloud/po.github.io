@@ -12,7 +12,7 @@ body {
   margin: 100px auto;
   background-color: #2a2b38;
   background-image: url("https://www.17sucai.com/preview/1097306/2020-11-18/dlcc/images/pat.svg");
-  border-radius: 100px 30px 10px 10px;
+  border-radius: 10px;
   position: relative;
   transform-style: preserve-3d;
   perspective: 500px;
