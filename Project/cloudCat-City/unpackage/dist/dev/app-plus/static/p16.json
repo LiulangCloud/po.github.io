@@ -1,0 +1,973 @@
+{
+    "shopInfo": {
+        "categories": [
+            {
+                "link": "http://shop.mogu.com/1obtl0/list/index?categoryId=20232246",
+                "name": "T恤"
+            },
+            {
+                "name": "卫衣",
+                "link": "http://shop.mogu.com/1obtl0/list/index?categoryId=20232247"
+            },
+            {
+                "name": "衬衫",
+                "link": "http://shop.mogu.com/1obtl0/list/index?categoryId=20232248"
+            },
+            {
+                "name": "外套",
+                "link": "http://shop.mogu.com/1obtl0/list/index?categoryId=20232249"
+            },
+            {
+                "name": "时尚套装",
+                "link": "http://shop.mogu.com/1obtl0/list/index?categoryId=20311544"
+            },
+            {
+                "name": "裤子",
+                "link": "http://shop.mogu.com/1obtl0/list/index?categoryId=20311545"
+            },
+            {
+                "name": "连衣裙",
+                "link": "http://shop.mogu.com/1obtl0/list/index?categoryId=20311546"
+            },
+            {
+                "name": "半身裙",
+                "link": "http://shop.mogu.com/1obtl0/list/index?categoryId=20336027"
+            },
+            {
+                "name": "针织&毛衣",
+                "link": "http://shop.mogu.com/1obtl0/list/index?categoryId=20339265"
+            },
+            {
+                "name": "针织",
+                "link": "http://shop.mogu.com/1obtl0/list/index?categoryId=20339266"
+            },
+            {
+                "name": "毛衣",
+                "link": "http://shop.mogu.com/1obtl0/list/index?categoryId=20339267"
+            },
+            {
+                "name": "风衣",
+                "link": "http://shop.mogu.com/1obtl0/list/index?categoryId=20341070"
+            },
+            {
+                "name": "开衫",
+                "link": "http://shop.mogu.com/1obtl0/list/index?categoryId=20341071"
+            },
+            {
+                "name": "秋上新",
+                "link": "http://shop.mogu.com/1obtl0/list/index?categoryId=20341262"
+            },
+            {
+                "name": "夏季清仓",
+                "link": "http://shop.mogu.com/1obtl0/list/index?categoryId=20341265"
+            },
+            {
+                "name": "人气榜单",
+                "link": "http://shop.mogu.com/1obtl0/list/index?categoryId=20342858"
+            },
+            {
+                "link": "http://shop.mogu.com/1obtl0/list/index?categoryId=20347017",
+                "name": "毛呢外套"
+            },
+            {
+                "name": "马甲",
+                "link": "http://shop.mogu.com/1obtl0/list/index?categoryId=20348774"
+            },
+            {
+                "name": "棉服/羽绒服",
+                "link": "http://shop.mogu.com/1obtl0/list/index?categoryId=20349956"
+            },
+            {
+                "name": "粉丝福利款",
+                "link": "http://shop.mogu.com/1obtl0/list/index?categoryId=20371148"
+            }
+        ],
+        "userId": "13hs6gm",
+        "shopId": "1obtl0",
+        "saleDesc": "在架商品 ",
+        "shopLabelPriority": "101,102,201,301,302,303,401,402,501,502,601,602",
+        "services": [
+            {
+                "desc": "极速发货、送货保障，若发货时间晚于商家承诺时间或快递派送时间晚于平台标准，可获得延误补贴。",
+                "serviceDetailId": 1810,
+                "serviceHeadId": 1800,
+                "icon": "https://s11.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                "name": "延误必赔"
+            },
+            {
+                "serviceDetailId": 610,
+                "serviceHeadId": 600,
+                "icon": "https://s11.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                "name": "退货补运费",
+                "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=927",
+                "desc": "订单退货完成且绑定用于提现的银行卡，根据实际发货与收货地址，预计可获6~18元运费补贴，以实际到账为准。"
+            },
+            {
+                "icon": "https://s11.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                "name": "7天无理由退货",
+                "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=892",
+                "desc": "物流签收后7天内买家可无理由退货，需满足退货条件",
+                "serviceDetailId": 110,
+                "serviceHeadId": 100
+            },
+            {
+                "desc": "",
+                "serviceDetailId": 430,
+                "serviceHeadId": 400,
+                "icon": "https://s11.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                "name": "72小时发货",
+                "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=893"
+            }
+        ],
+        "cFans": "97459",
+        "cGoods": 946,
+        "name": "麦旋风MAX",
+        "level": 2,
+        "dynShopLabels": [],
+        "score": [
+            {
+                "name": "描述相符",
+                "score": 4.52,
+                "isBetter": false
+            },
+            {
+                "score": 4.52,
+                "isBetter": false,
+                "name": "质量满意"
+            }
+        ],
+        "shopUrl": "//m.mogu.com/v8/meili/shop?shopid=1obtl0",
+        "shopLabels": [
+            {
+                "id": 201,
+                "text": "9.7万人关注"
+            },
+            {
+                "id": 303,
+                "text": "累计销量84.1万+"
+            },
+            {
+                "id": 601,
+                "text": "5年金招牌"
+            }
+        ],
+        "levelDescV2": "推荐指数",
+        "isMarked": false,
+        "shopLogo": "https://s11.mogucdn.com/mlcdn/c45406/180314_79c6e4g99l483fk3k6i07kjjl48e3_640x640.jpg",
+        "type": 1,
+        "saleDescV2": "在架商品 946",
+        "cSells": "84.2万"
+    },
+    "detailInfo": {
+        "desc": "泫雅高腰牛仔阔腿裤女韩版直筒宽松百搭显瘦长裤垂感拖地裤",
+        "detailImage": [
+            {
+                "key": "图文详情",
+                "anchor": "detail_info",
+                "list": [
+                    "https://s11.mogucdn.com/mlcdn/55cf19/210814_4e2ga7ked65l6a8ad61fi13gk0fl3_878x241.jpg",
+                    "https://s11.mogucdn.com/mlcdn/55cf19/210814_0a7gkg85k8e3a0ia05kc7d3d8hldc_800x800.jpg",
+                    "https://s5.mogucdn.com/mlcdn/55cf19/210814_5140g79gej451eb7bjj2lh172hb0i_800x800.jpg",
+                    "https://s11.mogucdn.com/mlcdn/55cf19/210814_0h62fjdl17g063abjkaja4elh8l30_800x800.jpg",
+                    "https://s5.mogucdn.com/mlcdn/55cf19/210814_68hl8l3jlj7lc7bh50152858ae132_800x800.jpg",
+                    "https://s11.mogucdn.com/mlcdn/55cf19/210814_1kfd169j729eb23a635ich8410h1l_800x800.jpg",
+                    "https://s11.mogucdn.com/mlcdn/55cf19/210814_70622j31dl9h92425b3ke2827gjkk_800x800.jpg",
+                    "https://s5.mogucdn.com/mlcdn/55cf19/210814_0fdcfc2kd81bdcdfgahe1217ell8b_800x800.jpg",
+                    "https://s5.mogucdn.com/mlcdn/55cf19/210814_24cc01aj501hdlgd1gbh1dc90k7bd_800x800.jpg",
+                    "https://s5.mogucdn.com/mlcdn/55cf19/210814_7f43gliklkk036gdh3c38ce778eag_799x800.jpg",
+                    "https://s11.mogucdn.com/mlcdn/55cf19/210814_2k8i27l6jj4dhjad38ec35lk5agdi_800x800.jpg",
+                    "https://s11.mogucdn.com/mlcdn/55cf19/210814_7l8gkflf1efb1gidfb4dlbg73i499_700x700.jpg",
+                    "https://s5.mogucdn.com/mlcdn/c45406/200519_149lj06bjhafb1e2j41l3dcfi5ca4_750x552.jpg",
+                    "https://s11.mogucdn.com/p2/170316/77101615_2hbi2aih2ecjaeg3eikjdia6206gb_1125x380.jpg"
+                ]
+            }
+        ],
+        "shopDecorate": {},
+        "splitDetailImage": true
+    },
+    "officialRecommend": {},
+    "rateLookInfo": {},
+    "shopRecommend": {
+        "realTimeRecommendItemList": [
+            {
+                "sale": "销量 169",
+                "acm": "3.mce.1_4_1n176e6.62806.93800.r9fL9sLlyS4yf.mid_62806-sd_115-pm_017-lc_201",
+                "isPintuan": false,
+                "price": "¥69.9",
+                "img": "https://s5.mogucdn.com/mlcdn/55cf19/210726_0l7cdf8295ae52fa552042f4c3g6a_800x800.jpg",
+                "iid": "1n176e6",
+                "title": "高腰阔腿牛仔裤女夏季薄款2021新款小个子直筒宽松垂感拖地裤"
+            },
+            {
+                "iid": "1n17642",
+                "title": "网红松紧腰牛仔阔腿裤女学生韩版高腰宽松显瘦百搭直筒牛仔长裤",
+                "sale": "销量 159",
+                "acm": "3.mce.1_4_1n17642.62806.93800.r9fL9sLlyS4yf.mid_62806-sd_115-pm_017-lc_201",
+                "isPintuan": false,
+                "price": "¥59.9",
+                "img": "https://s5.mogucdn.com/mlcdn/55cf19/210726_6eaf913cii007l7295gj09kjkaf48_800x800.jpg"
+            },
+            {
+                "sale": "销量 155",
+                "acm": "3.mce.1_4_1n146jm.62806.93800.r9fL9sLlyS4yf.mid_62806-sd_115-pm_017-lc_201",
+                "isPintuan": false,
+                "price": "¥59.9",
+                "img": "https://s5.mogucdn.com/mlcdn/55cf19/210718_1ddj8fb134hcb8gfdl39d4d082d6j_800x800.jpg",
+                "iid": "1n146jm",
+                "title": "高腰破洞牛仔裤女2021夏季直筒阔腿宽松显瘦原宿风慵懒韩版"
+            }
+        ]
+    },
+    "bottomBar": {
+        "buttons": [
+            {
+                "type": "icon",
+                "name": "shop",
+                "text": "店铺"
+            },
+            {
+                "type": "im",
+                "name": "im",
+                "text": "客服"
+            },
+            {
+                "type": "icon",
+                "name": "fav",
+                "text": "收藏"
+            },
+            {
+                "name": "cart",
+                "text": "加入购物车",
+                "isDisabled": false,
+                "type": "button"
+            },
+            {
+                "type": "button",
+                "name": "buy",
+                "text": "立即购买",
+                "isDisabled": false
+            }
+        ]
+    },
+    "shopBannerInfo": {},
+    "saleTextInfoV2": {
+        "name": "slogan"
+    },
+    "priceBannerV2": {},
+    "itemParams": {
+        "info": {
+            "set": {
+                "风格": "通勤（OL）",
+                "闭合方式": "纽扣+拉链",
+                "潮流": "韩系",
+                "颜色": "浅蓝色",
+                "版型": "宽松",
+                "腰型": "高腰",
+                "尺码": "S 95斤以内,L 107-118斤,M 95-106斤,2XL 131-145斤,XL 119-130斤",
+                "季节": "秋季",
+                "材质": "牛仔布",
+                "裤型": "直筒裤",
+                "厚薄": "常规",
+                "裤长": "长裤"
+            },
+            "key": "产品参数",
+            "anchor": "product_info"
+        },
+        "machedSizeLine": -1,
+        "headUnits": []
+    },
+    "orderCarousel": {
+        "fadeTime": 800,
+        "displayTime": 2500,
+        "gapTime": 500,
+        "_extra_control_hide_": false,
+        "list": [
+            {
+                "avatar": "https://s5.mogucdn.com/new1/v1/bdefaultavatar/01.jpg",
+                "text": "账号已注销_h-O4z425HxqIJPiglqbqdA下单成功"
+            },
+            {
+                "avatar": "https://s5.mogucdn.com/mlcdn/5abf39/191113_3db5akgkdg1jhakdh2g1i7658fjh7_132x132.jpg",
+                "text": "淑玉200106下单成功"
+            },
+            {
+                "text": "叶耍耍ssssa下单成功",
+                "avatar": "https://s5.mogucdn.com/mlcdn/5abf39/171013_6ki323j7jd5ef9ddil64fe0ff300g_40x40.png"
+            },
+            {
+                "avatar": "https://s5.mogucdn.com/new1/v1/bdefaultavatar/01.jpg",
+                "text": "叶耍耍ssss下单成功"
+            },
+            {
+                "avatar": "https://s5.mogucdn.com/p2/170409/upload_87i95h8k27glb50064j0d94e9hf1l_540x540.jpg",
+                "text": "化十YHQ下单成功"
+            },
+            {
+                "avatar": "https://s5.mogucdn.com/mlcdn/5abf39/180623_2ef6j2legcjki39ac4ecl6jc7f9ij_132x132.jpg",
+                "text": "檸檸檸檸檸N下单成功"
+            },
+            {
+                "avatar": "https://s11.mogucdn.com/mlcdn/5abf39/180815_6hf5aa2cjka75lje4l7042a1b4b49_132x132.jpg",
+                "text": "wx_ej8co0ivfnxmu下单成功"
+            },
+            {
+                "avatar": "https://s11.mogucdn.com/mlcdn/5abf39/180524_6614kk8cig1c439g75g56a476ga0i_400x400.jpg",
+                "text": "少莲Hedy下单成功"
+            }
+        ],
+        "delayTime": 2000
+    },
+    "skuInfo": {
+        "isJdItem": false,
+        "insuranceMait": [
+            {
+                "acm": "3.mce.1_10_1oasc.145273.0.wIDRrsLlyQuTY.pos_0-m_566834-sd_119",
+                "_system_click_uv_1d": 0,
+                "_system_click_pv_30d": 0,
+                "_system_expose_pv_15d": 0,
+                "_material_end_time": 2147483647,
+                "startTime": 1587544218,
+                "_material_start_time": 1587544218,
+                "_system_expose_uv_7d": 0,
+                "_system_click_uv_7d": 0,
+                "explainXcxUrl": "https://act.mogu.com/yiwaihuanxin202008",
+                "insuranceCodeForBill": "yiwaihuanxin",
+                "_system_click_pv_7d": 0,
+                "_system_rt_click_uv_1d": 0,
+                "_system_expose_uv_1d": 0,
+                "_system_click_pv_1d": 0,
+                "_system_expose_pv_30d": 0,
+                "endTime": 2147483647,
+                "_system_expose_uv_30d": 0,
+                "insuranceCode": "10",
+                "_system_expose_pv_1d": 0,
+                "_system_click_uv_15d": 0,
+                "_system_click_pv_15d": 0,
+                "_system_click_uv_30d": 0,
+                "explainURL": "https://act.mogu.com/yiwaihuanxin202008",
+                "_system_rt_click_pv_1d": 0,
+                "_system_record_entry_id": "566834",
+                "_system_sort": 1,
+                "_system_rt_expose_pv_1d": 0,
+                "name": "意外换新",
+                "desc": "衣物意外破损五折换新",
+                "_system_expose_pv_7d": 0,
+                "_system_expose_uv_15d": 0
+            },
+            {
+                "_system_click_uv_1d": 0,
+                "explainXcxUrl": "https://act.mogu.com/tunhuowuyou202008",
+                "acm": "3.mce.1_10_1oase.145273.0.wIDRrsLlyQuTZ.pos_1-m_566835-sd_119",
+                "_system_click_pv_30d": 0,
+                "_system_expose_uv_30d": 0,
+                "_material_end_time": 2147483647,
+                "_system_expose_pv_1d": 0,
+                "_system_click_uv_15d": 0,
+                "desc": "全新未拆封过期可赔现金",
+                "_system_rt_click_pv_1d": 0,
+                "_system_expose_uv_15d": 0,
+                "name": "囤货无忧",
+                "_system_expose_uv_1d": 0,
+                "_system_click_uv_7d": 0,
+                "_system_click_pv_1d": 0,
+                "startTime": 1587544261,
+                "_system_sort": 1,
+                "_system_expose_pv_7d": 0,
+                "_material_start_time": 1587544261,
+                "_system_expose_uv_7d": 0,
+                "insuranceCodeForBill": "tunhuowuyou",
+                "endTime": 2147483647,
+                "_system_click_pv_7d": 0,
+                "_system_expose_pv_15d": 0,
+                "_system_click_pv_15d": 0,
+                "_system_click_uv_30d": 0,
+                "_system_rt_click_uv_1d": 0,
+                "_system_expose_pv_30d": 0,
+                "_system_record_entry_id": "566835",
+                "_system_rt_expose_pv_1d": 0,
+                "explainURL": "https://act.mogu.com/tunhuowuyou202008",
+                "insuranceCode": "11"
+            }
+        ],
+        "sizeKey": "尺码",
+        "priceRange": "¥69.90",
+        "styleKey": "颜色",
+        "addressInfo": {},
+        "canInstallment": false,
+        "promotionItemTags": "[{\"id\":336280253,\"itemId\":696578993,\"tagKey\":\"pp\",\"tagValue\":\"tag:1616\",\"market\":0,\"source\":\"snail\",\"startTime\":1633766400,\"endTime\":1633852799,\"bizType\":1616,\"bizId\":\"26717849\",\"valueType\":2,\"businessType\":1,\"created\":1633605891,\"updated\":1633605891,\"isDeleted\":0},{\"id\":336280254,\"itemId\":696578993,\"tagKey\":\"pp\",\"tagValue\":\"tag:77\",\"market\":0,\"source\":\"snail\",\"startTime\":1633766400,\"endTime\":1633852799,\"bizType\":77,\"bizId\":\"26717849\",\"valueType\":2,\"businessType\":1,\"created\":1633605891,\"updated\":1633605891,\"isDeleted\":0},{\"id\":336280255,\"itemId\":696578993,\"tagKey\":\"pp\",\"tagValue\":\"tag:1210\",\"market\":0,\"source\":\"snail\",\"startTime\":1633766400,\"endTime\":1633852799,\"bizType\":1210,\"bizId\":\"26717849\",\"valueType\":2,\"businessType\":1,\"created\":1633605891,\"updated\":1633605891,\"isDeleted\":0}]",
+        "promotionExtraParams": {
+            "cids": "#682# #683# #710# #711#",
+            "shopTags": "2,11,48,113,419,509,700,800,805,823,900,901,903,905,925,940,1023,1138,1141,1271,1357,1431,1645,1759,1786,1792,1837,1857,1935,2000,3888,7711,80304,80305,200767"
+        },
+        "showDelayTime": false,
+        "autoCouponInfo": {
+            "showBtnText": "立即购买",
+            "jsonExtra": "{\"pp\":\"tag:1210\",\"goods_last_on_shelf\":\"2021-08-14 15:49:31.29\",\"fastbuy\":\"et:1633852799|ai:26717849|ln:5\",\"back\":\"java\",\"from\":\"sell\",\"source\":8,\"goods_on_shelf\":\"2021-08-14 15:49:31.29\",\"tags\":\"1616,1080,1210,1019,77,1854\"}",
+            "promotionItemTags": "[{\"id\":336280253,\"itemId\":696578993,\"tagKey\":\"pp\",\"tagValue\":\"tag:1616\",\"market\":0,\"source\":\"snail\",\"startTime\":1633766400,\"endTime\":1633852799,\"bizType\":1616,\"bizId\":\"26717849\",\"valueType\":2,\"businessType\":1,\"created\":1633605891,\"updated\":1633605891,\"isDeleted\":0},{\"id\":336280254,\"itemId\":696578993,\"tagKey\":\"pp\",\"tagValue\":\"tag:77\",\"market\":0,\"source\":\"snail\",\"startTime\":1633766400,\"endTime\":1633852799,\"bizType\":77,\"bizId\":\"26717849\",\"valueType\":2,\"businessType\":1,\"created\":1633605891,\"updated\":1633605891,\"isDeleted\":0},{\"id\":336280255,\"itemId\":696578993,\"tagKey\":\"pp\",\"tagValue\":\"tag:1210\",\"market\":0,\"source\":\"snail\",\"startTime\":1633766400,\"endTime\":1633852799,\"bizType\":1210,\"bizId\":\"26717849\",\"valueType\":2,\"businessType\":1,\"created\":1633605891,\"updated\":1633605891,\"isDeleted\":0}]",
+            "sellerId": "13hs6gm",
+            "isDisable": false,
+            "btnText": "领券购买",
+            "nextBtnText": "",
+            "defaultText": "立即购买"
+        },
+        "title": "泫雅高腰牛仔阔腿裤女韩版直筒宽松百搭显瘦长裤垂感拖地裤",
+        "defaultPrice": "¥69.90",
+        "totalStock": 800,
+        "jsonExtra": "{\"pp\":\"tag:1210\",\"goods_last_on_shelf\":\"2021-08-14 15:49:31.29\",\"fastbuy\":\"et:1633852799|ai:26717849|ln:5\",\"back\":\"java\",\"from\":\"sell\",\"source\":8,\"goods_on_shelf\":\"2021-08-14 15:49:31.29\",\"tags\":\"1616,1080,1210,1019,77,1854\"}",
+        "skus": [
+            {
+                "stock": 200,
+                "color": "",
+                "size": "S 95斤以内",
+                "insuranceMap": {
+                    "10": [
+                        {
+                            "skuId": 1639603458,
+                            "actualPrice": 6990,
+                            "insuranceCode": 10,
+                            "insurancePrice": 350,
+                            "sellerUserId": 442921819
+                        }
+                    ]
+                },
+                "stockId": "11i8csak",
+                "xdSkuId": "11i8csak",
+                "img": "https://s5.mogucdn.com/mlcdn/55cf19/210814_6jd78ed58fck1eh08f2gi8hh26cb1_800x800.jpg",
+                "currency": "¥",
+                "sizeId": 100,
+                "price": 16990,
+                "nowprice": 6990,
+                "style": "浅蓝色",
+                "styleId": 1
+            },
+            {
+                "img": "https://s5.mogucdn.com/mlcdn/55cf19/210814_6jd78ed58fck1eh08f2gi8hh26cb1_800x800.jpg",
+                "color": "",
+                "size": "L 107-118斤",
+                "sizeId": 101,
+                "stockId": "11i8csam",
+                "xdSkuId": "11i8csam",
+                "price": 16990,
+                "nowprice": 6990,
+                "insuranceMap": {
+                    "10": [
+                        {
+                            "sellerUserId": 442921819,
+                            "skuId": 1639603459,
+                            "actualPrice": 6990,
+                            "insuranceCode": 10,
+                            "insurancePrice": 350
+                        }
+                    ]
+                },
+                "currency": "¥",
+                "stock": 200,
+                "style": "浅蓝色",
+                "styleId": 1
+            },
+            {
+                "sizeId": 102,
+                "insuranceMap": {
+                    "10": [
+                        {
+                            "insurancePrice": 350,
+                            "sellerUserId": 442921819,
+                            "skuId": 1639603460,
+                            "actualPrice": 6990,
+                            "insuranceCode": 10
+                        }
+                    ]
+                },
+                "xdSkuId": "11i8csao",
+                "img": "https://s5.mogucdn.com/mlcdn/55cf19/210814_6jd78ed58fck1eh08f2gi8hh26cb1_800x800.jpg",
+                "currency": "¥",
+                "style": "浅蓝色",
+                "color": "",
+                "size": "XL 119-130斤",
+                "styleId": 1,
+                "stockId": "11i8csao",
+                "price": 16990,
+                "nowprice": 6990,
+                "stock": 200
+            },
+            {
+                "style": "浅蓝色",
+                "size": "M 95-106斤",
+                "styleId": 1,
+                "stockId": "11i8csaq",
+                "xdSkuId": "11i8csaq",
+                "price": 16990,
+                "nowprice": 6990,
+                "sizeId": 103,
+                "insuranceMap": {
+                    "10": [
+                        {
+                            "skuId": 1639603461,
+                            "actualPrice": 6990,
+                            "insuranceCode": 10,
+                            "insurancePrice": 350,
+                            "sellerUserId": 442921819
+                        }
+                    ]
+                },
+                "img": "https://s5.mogucdn.com/mlcdn/55cf19/210814_6jd78ed58fck1eh08f2gi8hh26cb1_800x800.jpg",
+                "currency": "¥",
+                "stock": 200,
+                "color": ""
+            },
+            {
+                "sizeId": 104,
+                "stockId": "11i8csas",
+                "color": "",
+                "size": "2XL 131-145斤",
+                "styleId": 1,
+                "currency": "¥",
+                "stock": 0,
+                "style": "浅蓝色",
+                "insuranceMap": {
+                    "10": [
+                        {
+                            "skuId": 1639603462,
+                            "actualPrice": 6990,
+                            "insuranceCode": 10,
+                            "insurancePrice": 350,
+                            "sellerUserId": 442921819
+                        }
+                    ]
+                },
+                "xdSkuId": "11i8csas",
+                "price": 16990,
+                "nowprice": 6990,
+                "img": "https://s5.mogucdn.com/mlcdn/55cf19/210814_6jd78ed58fck1eh08f2gi8hh26cb1_800x800.jpg"
+            }
+        ],
+        "props": [
+            {
+                "label": "颜色",
+                "list": [
+                    {
+                        "name": "浅蓝色",
+                        "isDefault": false,
+                        "styleId": 1,
+                        "index": 1,
+                        "type": "style"
+                    }
+                ],
+                "isDefault": false
+            },
+            {
+                "isDefault": false,
+                "label": "尺码",
+                "list": [
+                    {
+                        "name": "S 95斤以内",
+                        "isDefault": false,
+                        "sizeId": 100,
+                        "index": 100,
+                        "type": "size"
+                    },
+                    {
+                        "type": "size",
+                        "name": "L 107-118斤",
+                        "isDefault": false,
+                        "sizeId": 101,
+                        "index": 101
+                    },
+                    {
+                        "type": "size",
+                        "name": "XL 119-130斤",
+                        "isDefault": false,
+                        "sizeId": 102,
+                        "index": 102
+                    },
+                    {
+                        "type": "size",
+                        "name": "M 95-106斤",
+                        "isDefault": false,
+                        "sizeId": 103,
+                        "index": 103
+                    },
+                    {
+                        "index": 104,
+                        "type": "size",
+                        "name": "2XL 131-145斤",
+                        "isDefault": false,
+                        "sizeId": 104
+                    }
+                ]
+            }
+        ]
+    },
+    "addCartLottery": {
+        "lotteryResult": [],
+        "addCartTip": {},
+        "activityId": ""
+    },
+    "useBeforeBuyInfo": {},
+    "normalShareInfo": {
+        "title": "泫雅高腰牛仔阔腿裤女韩版直筒宽松百搭显瘦长裤垂感拖地裤",
+        "content": "亲爱的～这件宝贝不错哦，快进来看看吧～",
+        "url": "//h5.mogu.com/detail-normal/index.html?itemId=1n1g7mi&from=share",
+        "imageUrl": "https://s5.mogucdn.com/mlcdn/55cf19/210814_7iajf8ki0d3b5hdbfjjfd9ekal2lg_640x960.jpg"
+    },
+    "tabpanelHideInfo": {
+        "moduleTabpanelRecommend": false
+    },
+    "promotionV2": {
+        "calculateDiscount": {
+            "discountDesc": "",
+            "originalPrice": "",
+            "originalPriceDesc": "",
+            "discountList": []
+        },
+        "promotionStyle": {
+            "arrowImg": "https://s10.mogucdn.com/mlcdn/c45406/210107_21h4k1gj40d3j5b68a9k7dk62i5ik_120x50.png",
+            "couponArrowImg": "https://s10.mogucdn.com/mlcdn/c45406/210107_13dkdf1076bbfijhaddgh2i07917g_120x50.png"
+        },
+        "sellerId": "13hs6gm",
+        "iid": "1n1g7mi",
+        "request": {
+            "itemPrice": 6990,
+            "preSale": false,
+            "sellerId": "13hs6gm",
+            "itemIds": "1n1g7mi"
+        },
+        "showShopPromotion": true,
+        "popoversRealtime": [],
+        "outersRealtime": []
+    },
+    "sizeHelper": {},
+    "normalPriceV2": {
+        "highPriceDesc": "起",
+        "currency": "¥",
+        "nowPrice": "69.90",
+        "nowPriceNum": 6990,
+        "oldPrice": "",
+        "highNowPrice": "",
+        "couponPrice": "",
+        "sales": "97",
+        "eventPriceColor": "#FF2255",
+        "mobileDownloadLink": "",
+        "extraDesc": "",
+        "extraDescs": [],
+        "couponDesc": "",
+        "priceSplit": "~",
+        "priceColor": "#333333",
+        "priceTopTags": [],
+        "prePriceTag": {
+            "bgColor": "#FFE8EE",
+            "textColor": "#FF2255"
+        },
+        "priceTags": [
+            {
+                "text": "优惠价",
+                "bgColor": "#FFE8EE",
+                "textColor": "#FF2255"
+            }
+        ],
+        "eventPrice": "",
+        "eventPriceDesc": {
+            "bgColor": "#FFE8EE",
+            "textColor": "#FF2255"
+        },
+        "mobilePrice": "",
+        "eventDesc": "",
+        "eventTags": []
+    },
+    "rateInfoV2": {
+        "rateTags": [],
+        "sales": 97,
+        "needDSR": true,
+        "cScore": "5.00",
+        "list": [
+            {
+                "rateId": "11d94bek",
+                "content": "该用户给出了5星好评。",
+                "created": 1633409758,
+                "level": "",
+                "canExplain": false,
+                "userTags": [
+                    {
+                        "image": "https://s10.mogucdn.com/mlcdn/c45406/201231_1a03cbjlf4hh10c4alfeab0kh538g_45x45.png",
+                        "text": "",
+                        "textColor": "",
+                        "bgColor": ""
+                    }
+                ],
+                "user": {
+                    "uname": "少莲Hedy",
+                    "avatar": "https://s11.mogucdn.com/mlcdn/5abf39/180524_6614kk8cig1c439g75g56a476ga0i_400x400.jpg",
+                    "profileUrl": ""
+                },
+                "isAnonymous": 0,
+                "style": "颜色:浅蓝色 尺码:S 95斤以内 ",
+                "isEmpty": 1,
+                "isBuyerShow": false
+            }
+        ],
+        "cRate": 1,
+        "imgTotal": 0
+    },
+    "liveExplainInfo": {},
+    "topImages": [
+        "https://s5.mogucdn.com/mlcdn/55cf19/210814_7iajf8ki0d3b5hdbfjjfd9ekal2lg_640x960.jpg",
+        "https://s11.mogucdn.com/mlcdn/55cf19/210814_2b90855ahddgg0062c7hjhck31agf_640x960.jpg",
+        "https://s5.mogucdn.com/mlcdn/55cf19/210814_5ai3ikgdi8jeaej3dealfbefk8i1d_640x960.jpg",
+        "https://s5.mogucdn.com/mlcdn/55cf19/210814_5al05j67b591k488ee9d7k0dfl77k_640x960.jpg",
+        "https://s5.mogucdn.com/mlcdn/55cf19/210814_7kjcchj3f3d5a1974aej1k2bcc5bh_800x800.jpg"
+    ],
+    "delayExpress": {
+        "componentKey": "forDelayShipping",
+        "_extra_control_hide_": true
+    },
+    "itemInfo": {
+        "state": 0,
+        "saleType": 0,
+        "titleTags": [],
+        "titleTagsV2": [],
+        "picTags": [],
+        "desc": "泫雅高腰牛仔阔腿裤女韩版直筒宽松百搭显瘦长裤垂感拖地裤",
+        "title": "泫雅高腰牛仔阔腿裤女韩版直筒宽松百搭显瘦长裤垂感拖地裤",
+        "itemId": "1n1g7mi",
+        "lowPrice": "69.90",
+        "highPrice": "69.90",
+        "lowNowPrice": "69.90",
+        "pickforme": {
+            "link": "/pages/web/index?login=true&share=true&src=https%3A%2F%2Fh5.mogu.com%2Fpickforme%2Flaunch%2Findex.html%3FitemId%3D1n1g7mi%26acm%3D3.mce.1_10_1nh28.143035.0.cNptNsLlyQuUV.pos_0-m_547572-sd_119",
+            "h5Link": "https://h5.mogu.com/pickforme/launch/index.html?itemId=1n1g7mi&acm=3.mce.1_10_1nh28.143035.0.cNptNsLlyQuUV.pos_0-m_547572-sd_119",
+            "acm": "3.mce.1_10_1nh28.143035.0.cNptNsLlyQuUV.pos_0-m_547572-sd_119",
+            "name": "帮我选",
+            "icon": "https://s10.mogucdn.com/mlcdn/c45406/191218_762ibk3def84blec68cbe4le770df_54x54.png"
+        },
+        "isFaved": false,
+        "cFav": 2,
+        "saleStartTime": 0,
+        "seo": {
+            "links": "null",
+            "canonical": "//shop.mogujie.com/detail/1n1g7mi",
+            "seo_noindex": "0",
+            "title": "【泫雅高腰牛仔阔腿裤女韩版直筒宽松百搭显瘦长裤垂感拖地裤】-女装-牛仔裤_裤子_女装_服饰鞋包-麦旋风MAX-蘑菇街优店",
+            "keywords": "泫雅高腰牛仔阔腿裤女韩版直筒宽松百搭显瘦长裤垂感拖地裤",
+            "wap_url": "//m.mogujie.com/x6/detail/1n1g7mi",
+            "description": "来自蘑菇街优店牛仔裤_裤子_女装_服饰鞋包家泫雅高腰牛仔阔腿裤女韩版直筒宽松百搭显瘦长裤垂感拖地裤的泫雅高腰牛仔阔腿裤女韩版直筒宽松百搭显瘦长裤垂感拖地裤，发现当季女装和麦旋风MAX搭配心得。",
+            "alternate": "//m.mogujie.com/x6/detail/1n1g7mi"
+        },
+        "virtualItemType": 0,
+        "highNowPrice": "69.90",
+        "priceChannel": 0,
+        "cids": "#682# #683# #710# #711#",
+        "numTags": [
+            "1616",
+            "77",
+            "1210",
+            "1019",
+            "1080",
+            "1854"
+        ],
+        "video": {
+            "muted": false,
+            "autoplay": false
+        }
+    },
+    "installmentGuide": {
+        "accessoryTitle": "免费申请",
+        "acm": "3.mce.1_10_1h602.108100.0.5KcplsLlyQvaa.pos_0-m_400437-sd_119",
+        "iconWidth": 94,
+        "iconHeight": 23,
+        "titleV2": "先享后付",
+        "message": "0元下单，收货下月再付款",
+        "accessoryTitleColor": "#FF4466",
+        "linkUrl": "/pages/web/index?src=https%3A%2F%2Fbfm.mogu.com%2Fm&acm=3.mce.1_10_1h602.108100.0.5KcplsLlyQvaa.pos_0-m_400437-sd_119",
+        "icon": "https://s10.mogucdn.com/mlcdn/c45406/190121_31cab12l6iaejk1ghf2f7254gaei6_118x29.png",
+        "title": "0元下单，收货下月再付款"
+    },
+    "actorDSR": {
+        "_extra_control_hide_": true
+    },
+    "normalPrice": {
+        "nowPrice": "69.90",
+        "highPriceDesc": "起",
+        "priceSplit": "~",
+        "prePriceTag": {
+            "bgColor": "#FFE8EE",
+            "textColor": "#FF2255"
+        },
+        "mobilePrice": "",
+        "highNowPrice": "",
+        "couponDesc": "",
+        "priceTopTags": [],
+        "eventPriceDesc": {
+            "bgColor": "#FFE8EE",
+            "textColor": "#FF2255"
+        },
+        "eventDesc": "",
+        "couponPrice": "",
+        "priceTags": [
+            {
+                "text": "优惠价",
+                "bgColor": "#FFE8EE",
+                "textColor": "#FF2255"
+            }
+        ],
+        "eventPrice": "",
+        "eventPriceColor": "#FF2255",
+        "eventTags": [],
+        "mobileDownloadLink": "",
+        "extraDesc": "",
+        "nowPriceNum": 6990,
+        "oldPrice": "",
+        "sales": "97",
+        "currency": "¥",
+        "priceColor": "#333333",
+        "extraDescs": []
+    },
+    "priceBanner": {},
+    "userInfo": {
+        "isLogin": true,
+        "isSelf": false,
+        "sellerId": "13hs6gm",
+        "systemTime": 1633783453,
+        "xcxType": "H5",
+        "xcxVersion": 10,
+        "userId": "13hs6gm",
+        "loginUserId": "1fn2gn0",
+        "admin": false,
+        "shopId": "1obtl0"
+    },
+    "shareInfo": {
+        "shareLog": true,
+        "shareIntegralInfo": {
+            "titleIcon": "",
+            "ruleLink": "",
+            "color": "#333333",
+            "rules": [],
+            "newTitleImage": "",
+            "shareIcon": "",
+            "momentsIcon": "https://s17.mogucdn.com/mlcdn/c45406/180316_145ilek69006jeah5gdk9669il6hd_110x110.png",
+            "title": "",
+            "ruleTitle": "",
+            "strongColor": "",
+            "bgImage": "",
+            "friendsIcon": "https://s3.mogucdn.com/mlcdn/c45406/180316_3654j24hf87f75j2e27ijjh60jllf_110x110.png"
+        },
+        "shareLotteryInfo": {
+            "btnText": "知道了",
+            "relationKey": "YOZhgdkPY/IPOy0DEywC9g==",
+            "bg": "https://s10.mogucdn.com/mlcdn/c45406/180320_5i652adg4dke998412f88kf8lb0a6_630x714.png",
+            "btnColor": "#fe8605"
+        },
+        "isNeedShareIntegral": false,
+        "shareIntegral": false,
+        "shareLottery": false
+    },
+    "officialSelect": {
+        "_extra_control_hide_": true
+    },
+    "crossShopDiscount": {
+        "_extra_control_hide_": true
+    },
+    "liveLabelInfo": {},
+    "installmentInfo": "",
+    "buyerShopRecommend": {
+        "_extra_control_hide_": true
+    },
+    "rateInfo": {
+        "list": [
+            {
+                "user": {
+                    "avatar": "https://s11.mogucdn.com/mlcdn/5abf39/180524_6614kk8cig1c439g75g56a476ga0i_400x400.jpg",
+                    "profileUrl": "",
+                    "uname": "少莲Hedy"
+                },
+                "created": 1633409758,
+                "isAnonymous": 0,
+                "style": "颜色:浅蓝色 尺码:S 95斤以内 ",
+                "isEmpty": 1,
+                "canExplain": false,
+                "rateId": "11d94bek",
+                "content": "该用户给出了5星好评。",
+                "level": "",
+                "isBuyerShow": false
+            }
+        ],
+        "cRate": 1,
+        "imgTotal": 0,
+        "rateTags": [],
+        "sales": 97
+    },
+    "hotSaleRankInfo": {
+        "_extra_control_hide_": true
+    },
+    "platformCoupons": {
+        "couponInfo": {
+            "title": "",
+            "couponList": []
+        },
+        "popoverPlatformCoupons": {
+            "title": "",
+            "list": []
+        }
+    },
+    "liveInfo": {},
+    "skuBarInfo": {},
+    "saleTextInfo": {
+        "name": "slogan"
+    },
+    "normalCountdown": {
+        "countdown": 0,
+        "text": "",
+        "image": "",
+        "isCountdomShow": true,
+        "titleColor": "#FFFFFF"
+    },
+    "webImOptionInfo": {
+        "showOnBottom": true,
+        "option": {
+            "title": "泫雅高腰牛仔阔腿裤女韩版直筒宽松百搭显瘦长裤垂感拖地裤",
+            "shopId": "1obtl0",
+            "userId": "13hs6gm",
+            "goodsId": "1n1g7mi",
+            "img": "https://s5.mogucdn.com/mlcdn/55cf19/210814_7iajf8ki0d3b5hdbfjjfd9ekal2lg_640x960.jpg"
+        }
+    },
+    "preSaleInfo": "",
+    "itemServices": {
+        "columns": [
+            {
+                "name": "sales",
+                "desc": "销量 97",
+                "icon": "https://s5.mogucdn.com/p1/161117/idid_ifrdkytcgbstoobummzdambqmeyde_512x512.png"
+            },
+            {
+                "name": "express",
+                "desc": "免邮费",
+                "icon": "https://s5.mogucdn.com/p1/161117/idid_ifqwgnbsmjsdoobummzdambqgyyde_512x512.png"
+            }
+        ],
+        "services": [
+            {
+                "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=893",
+                "name": "72小时发货",
+                "icon": "https://s11.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                "content": ""
+            },
+            {
+                "name": "7天无理由退货",
+                "icon": "https://s11.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                "content": "物流签收后7天内买家可无理由退货，需满足退货条件",
+                "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=892"
+            },
+            {
+                "name": "延误必赔",
+                "icon": "https://s11.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                "content": "极速发货、送货保障，若发货时间晚于商家承诺时间或快递派送时间晚于平台标准，可获得延误补贴。"
+            },
+            {
+                "name": "退货补运费",
+                "icon": "https://s11.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+                "content": "订单退货完成且绑定用于提现的银行卡，根据实际发货与收货地址，预计可获6~18元运费补贴，以实际到账为准。",
+                "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=927"
+            }
+        ]
+    }
+}

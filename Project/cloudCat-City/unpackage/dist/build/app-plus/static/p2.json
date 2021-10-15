@@ -1,0 +1,1361 @@
+{
+  "liveInfo": {},
+  "checked":false,
+  "rateLookInfo": {},
+  "hotSaleRankInfo": { "_extra_control_hide_": true },
+  "shopInfo": {
+    "services": [
+      {
+        "icon": "https://s11.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+        "name": "延误必赔",
+        "desc": "极速发货、送货保障，若发货时间晚于商家承诺时间或快递派送时间晚于平台标准，可获得延误补贴。",
+        "serviceDetailId": 1810,
+        "serviceHeadId": 1800
+      },
+      {
+        "desc": "订单退货完成且绑定用于提现的银行卡，根据实际发货与收货地址，预计可获6~18元运费补贴，以实际到账为准。",
+        "serviceDetailId": 610,
+        "serviceHeadId": 600,
+        "icon": "https://s11.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+        "name": "退货补运费",
+        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=927"
+      },
+      {
+        "icon": "https://s11.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+        "name": "全国包邮",
+        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=895",
+        "desc": "",
+        "serviceDetailId": 310,
+        "serviceHeadId": 300
+      },
+      {
+        "name": "7天无理由退货",
+        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=892",
+        "desc": "物流签收后7天内买家可无理由退货，需满足退货条件",
+        "serviceDetailId": 110,
+        "serviceHeadId": 100,
+        "icon": "https://s11.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png"
+      },
+      {
+        "icon": "https://s11.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+        "name": "72小时发货",
+        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=893",
+        "desc": "",
+        "serviceDetailId": 430,
+        "serviceHeadId": 400
+      }
+    ],
+    "categories": [
+      {
+        "name": "衬衫",
+        "link": "http://shop.mogu.com/1172wav0/list/index?categoryId=20394096"
+      },
+      {
+        "name": "T恤",
+        "link": "http://shop.mogu.com/1172wav0/list/index?categoryId=20394097"
+      },
+      {
+        "link": "http://shop.mogu.com/1172wav0/list/index?categoryId=20394098",
+        "name": "外套"
+      },
+      {
+        "name": "裤子",
+        "link": "http://shop.mogu.com/1172wav0/list/index?categoryId=20394099"
+      },
+      {
+        "name": "裙子",
+        "link": "http://shop.mogu.com/1172wav0/list/index?categoryId=20394100"
+      },
+      {
+        "name": "长裤",
+        "link": "http://shop.mogu.com/1172wav0/list/index?categoryId=20394101"
+      },
+      {
+        "name": "短裤",
+        "link": "http://shop.mogu.com/1172wav0/list/index?categoryId=20394102"
+      },
+      {
+        "name": "半身裙",
+        "link": "http://shop.mogu.com/1172wav0/list/index?categoryId=20394103"
+      },
+      {
+        "name": "连衣裙",
+        "link": "http://shop.mogu.com/1172wav0/list/index?categoryId=20394104"
+      },
+      {
+        "link": "http://shop.mogu.com/1172wav0/list/index?categoryId=20394105",
+        "name": "法式"
+      },
+      {
+        "name": "韩版",
+        "link": "http://shop.mogu.com/1172wav0/list/index?categoryId=20394106"
+      },
+      {
+        "name": "套装",
+        "link": "http://shop.mogu.com/1172wav0/list/index?categoryId=20395134"
+      },
+      {
+        "name": "卫衣",
+        "link": "http://shop.mogu.com/1172wav0/list/index?categoryId=20395135"
+      },
+      {
+        "name": "棉衣",
+        "link": "http://shop.mogu.com/1172wav0/list/index?categoryId=20395136"
+      }
+    ],
+    "cSells": "3111",
+    "type": 2,
+    "levelDescV2": "推荐指数",
+    "shopLabelPriority": "101,102,201,301,302,303,401,402,501,502,601,602",
+    "score": [
+      { "isBetter": false, "name": "描述相符", "score": 4.72 },
+      { "score": 4.72, "isBetter": false, "name": "质量满意" }
+    ],
+    "cFans": "125",
+    "name": "衣然美定制",
+    "saleDescV2": "在架商品 277",
+    "isMarked": false,
+    "cGoods": 277,
+    "userId": "19pds4y",
+    "level": 3,
+    "shopUrl": "//m.mogu.com/v8/meili/shop?shopid=1172wav0",
+    "shopLabels": [
+      { "id": 201, "text": "125人关注" },
+      { "id": 303, "text": "累计销量3111" }
+    ],
+    "dynShopLabels": [],
+    "shopLogo": "https://s5.mogucdn.com/mlcdn/c45406/201130_87hkede27eehj98i13hac4j00l7c2_120x120.png",
+    "shopId": "1172wav0",
+    "saleDesc": "在架商品 "
+  },
+  "topImages": [
+    "https://s11.mogucdn.com/mlcdn/9620b1/210914_5d7gb96840ia6kggi40jd7312ilgh_750x1000.png",
+    "https://s5.mogucdn.com/mlcdn/55cf19/210909_4c9aeh23ai7865943bbee8di135bf_640x960.jpg",
+    "https://s11.mogucdn.com/mlcdn/55cf19/210909_1l4ik2e3gjflhga6ce9l380hh8kkl_640x960.jpg",
+    "https://s11.mogucdn.com/mlcdn/55cf19/210909_1jbi4lh5l3cb8jk47jkk7i29734il_640x960.jpg",
+    "https://s5.mogucdn.com/mlcdn/55cf19/210909_7i86lh05f62kfl6i95jjah769d9jh_640x960.jpg",
+    "https://s11.mogucdn.com/mlcdn/55cf19/210909_3h244944g11ed3g0agh82fi5ff2bh_640x960.jpg",
+    "https://s11.mogucdn.com/mlcdn/55cf19/210909_2ba9jcki729fle8g7550ed1di2lj3_640x960.jpg",
+    "https://s11.mogucdn.com/mlcdn/55cf19/210909_7gk2a2lf16jg40d42djf9k80hfl7b_640x960.jpg",
+    "https://s5.mogucdn.com/mlcdn/55cf19/210909_0hc2hahhb92lgilb14dd88jb3k740_640x960.jpg"
+  ],
+  "webImOptionInfo": {
+    "option": {
+      "shopId": "1172wav0",
+      "userId": "19pds4y",
+      "goodsId": "1n1sww0",
+      "img": "https://s11.mogucdn.com/mlcdn/9620b1/210914_5d7gb96840ia6kggi40jd7312ilgh_750x1000.png",
+      "title": "冬季新款仿狐狸毛皮草派克服女短款外套大衣兔毛内胆可脱卸"
+    },
+    "showOnBottom": true
+  },
+  "normalPrice": {
+    "nowPriceNum": 36800,
+    "oldPrice": "",
+    "couponPrice": "",
+    "priceTags": [
+      { "text": "9.15价", "bgColor": "#FFE8EE", "textColor": "#FF2255" }
+    ],
+    "extraDescs": [],
+    "nowPrice": "368.00",
+    "highPriceDesc": "起",
+    "priceColor": "#333333",
+    "eventTags": [],
+    "mobilePrice": "",
+    "eventDesc": "",
+    "extraDesc": "",
+    "couponDesc": "",
+    "priceSplit": "~",
+    "currency": "¥",
+    "priceTopTags": [],
+    "mobileDownloadLink": "",
+    "highNowPrice": "",
+    "sales": "0",
+    "prePriceTag": { "bgColor": "#FFE8EE", "textColor": "#FF2255" },
+    "eventPrice": "",
+    "eventPriceDesc": { "bgColor": "#FFE8EE", "textColor": "#FF2255" }
+  },
+  "delayExpress": {
+    "componentKey": "forDelayShipping",
+    "_extra_control_hide_": true
+  },
+  "installmentGuide": {},
+  "promotionV2": {
+    "promotionStyle": {
+      "arrowImg": "https://s10.mogucdn.com/mlcdn/c45406/210107_21h4k1gj40d3j5b68a9k7dk62i5ik_120x50.png",
+      "couponArrowImg": "https://s10.mogucdn.com/mlcdn/c45406/210107_13dkdf1076bbfijhaddgh2i07917g_120x50.png"
+    },
+    "sellerId": "19pds4y",
+    "iid": "1n1sww0",
+    "request": {
+      "preSale": false,
+      "sellerId": "19pds4y",
+      "itemIds": "1n1sww0",
+      "itemPrice": 36800
+    },
+    "showShopPromotion": true,
+    "popoversRealtime": [],
+    "outersRealtime": [],
+    "calculateDiscount": {
+      "discountList": [],
+      "discountDesc": "",
+      "originalPrice": "",
+      "originalPriceDesc": ""
+    }
+  },
+  "useBeforeBuyInfo": {},
+  "shopBannerInfo": {},
+  "liveLabelInfo": {},
+  "preSaleInfo": "",
+  "liveExplainInfo": {},
+  "itemParams": {
+    "headUnits": ["", "cm", "cm", "cm", "cm", "cm", "cm"],
+    "info": {
+      "set": {
+        "季节": "冬季",
+        "袖长": "长袖",
+        "袖型": "常规袖",
+        "衣长": "常规款（51-65cm）",
+        "版型": "宽松",
+        "材质": "仿毛皮",
+        "领型": "其他领型",
+        "风格": "简约",
+        "潮流": "中式",
+        "图案": "色块",
+        "颜色": "湖绿色,米白色,军绿色,卡其色",
+        "尺码": "S,XL,2XL,3XL,L,M"
+      },
+      "key": "产品参数",
+      "anchor": "product_info"
+    },
+    "rule": {
+      "disclaimer": "※ 以上尺寸为实物人工测量，因测量方式不同会有1-2cm误差，相关数据仅作参考，以收到实物为准。",
+      "tables": [
+        [
+          ["尺码", "胸围", "腰围", "袖长", "肩宽", "领围", "衣长"],
+          ["S", "-", "-", "-", "-", "-", "-"],
+          ["M", "-", "-", "-", "-", "-", "-"],
+          ["L", "-", "-", "-", "-", "-", "-"],
+          ["XL", "-", "-", "-", "-", "-", "-"],
+          ["3XL", "-", "-", "-", "-", "-", "-"],
+          ["2XL", "-", "-", "-", "-", "-", "-"]
+        ]
+      ],
+      "key": "尺码说明",
+      "anchor": "size_info"
+    },
+    "machedSizeLine": -1
+  },
+  "skuInfo": {
+    "addressInfo": {},
+    "jsonExtra": "{\"pp\":\"tag:166\",\"goods_last_on_shelf\":\"2021-09-10 18:05:52.488\",\"back\":\"java\",\"from\":\"sell\",\"source\":8,\"hd\":\"st:1631628000|ci:700025002730|ws:1631376000|tp:2|mk:8|et:1631894399|dc:36800|nm:活动价|\",\"goods_on_shelf\":\"2021-09-10 18:05:52.488\",\"tags\":\"16,166,1854\"}",
+    "skus": [
+      {
+        "size": "S",
+        "sizeId": 100,
+        "stockId": "11ie6ywc",
+        "nowprice": 36800,
+        "img": "https://s5.mogucdn.com/mlcdn/55cf19/210909_005fbfc6gijf2391kbi25bfl4097d_800x800.jpg",
+        "stock": 300,
+        "style": "米白色",
+        "insuranceMap": {
+          "10": [
+            {
+              "skuId": 1644506618,
+              "actualPrice": 36800,
+              "insuranceCode": 10,
+              "insurancePrice": 1840,
+              "sellerUserId": 442921819
+            }
+          ]
+        },
+        "xdSkuId": "11ie6ywc",
+        "price": 37800,
+        "currency": "¥",
+        "color": "#eedeb0",
+        "styleId": 1
+      },
+      {
+        "color": "#eedeb0",
+        "size": "M",
+        "sizeId": 101,
+        "stockId": "11ie6ywe",
+        "xdSkuId": "11ie6ywe",
+        "nowprice": 36800,
+        "img": "https://s5.mogucdn.com/mlcdn/55cf19/210909_005fbfc6gijf2391kbi25bfl4097d_800x800.jpg",
+        "currency": "¥",
+        "insuranceMap": {
+          "10": [
+            {
+              "insuranceCode": 10,
+              "insurancePrice": 1840,
+              "sellerUserId": 442921819,
+              "skuId": 1644506619,
+              "actualPrice": 36800
+            }
+          ]
+        },
+        "price": 37800,
+        "stock": 300,
+        "style": "米白色",
+        "styleId": 1
+      },
+      {
+        "styleId": 1,
+        "sizeId": 102,
+        "insuranceMap": {
+          "10": [
+            {
+              "actualPrice": 36800,
+              "insuranceCode": 10,
+              "insurancePrice": 1840,
+              "sellerUserId": 442921819,
+              "skuId": 1644506621
+            }
+          ]
+        },
+        "price": 37800,
+        "stock": 300,
+        "size": "L",
+        "img": "https://s5.mogucdn.com/mlcdn/55cf19/210909_005fbfc6gijf2391kbi25bfl4097d_800x800.jpg",
+        "currency": "¥",
+        "style": "米白色",
+        "color": "#eedeb0",
+        "stockId": "11ie6ywi",
+        "xdSkuId": "11ie6ywi",
+        "nowprice": 36800
+      },
+      {
+        "styleId": 1,
+        "sizeId": 103,
+        "insuranceMap": {
+          "10": [
+            {
+              "skuId": 1644506620,
+              "actualPrice": 36800,
+              "insuranceCode": 10,
+              "insurancePrice": 1840,
+              "sellerUserId": 442921819
+            }
+          ]
+        },
+        "xdSkuId": "11ie6ywg",
+        "img": "https://s5.mogucdn.com/mlcdn/55cf19/210909_005fbfc6gijf2391kbi25bfl4097d_800x800.jpg",
+        "currency": "¥",
+        "style": "米白色",
+        "size": "XL",
+        "stockId": "11ie6ywg",
+        "price": 37800,
+        "nowprice": 36800,
+        "stock": 300,
+        "color": "#eedeb0"
+      },
+      {
+        "size": "3XL",
+        "sizeId": 104,
+        "xdSkuId": "11ie6ywm",
+        "nowprice": 36800,
+        "currency": "¥",
+        "color": "#eedeb0",
+        "style": "米白色",
+        "styleId": 1,
+        "insuranceMap": {
+          "10": [
+            {
+              "skuId": 1644506623,
+              "actualPrice": 36800,
+              "insuranceCode": 10,
+              "insurancePrice": 1840,
+              "sellerUserId": 442921819
+            }
+          ]
+        },
+        "stockId": "11ie6ywm",
+        "price": 37800,
+        "img": "https://s5.mogucdn.com/mlcdn/55cf19/210909_005fbfc6gijf2391kbi25bfl4097d_800x800.jpg",
+        "stock": 300
+      },
+      {
+        "nowprice": 36800,
+        "img": "https://s5.mogucdn.com/mlcdn/55cf19/210909_005fbfc6gijf2391kbi25bfl4097d_800x800.jpg",
+        "stock": 300,
+        "style": "米白色",
+        "color": "#eedeb0",
+        "size": "2XL",
+        "sizeId": 105,
+        "xdSkuId": "11ie6ywk",
+        "price": 37800,
+        "currency": "¥",
+        "styleId": 1,
+        "insuranceMap": {
+          "10": [
+            {
+              "sellerUserId": 442921819,
+              "skuId": 1644506622,
+              "actualPrice": 36800,
+              "insuranceCode": 10,
+              "insurancePrice": 1840
+            }
+          ]
+        },
+        "stockId": "11ie6ywk"
+      },
+      {
+        "nowprice": 36800,
+        "currency": "¥",
+        "style": "军绿色",
+        "color": "#5d762a",
+        "size": "S",
+        "sizeId": 100,
+        "stockId": "11ie6yw6",
+        "price": 37800,
+        "stock": 300,
+        "styleId": 2,
+        "insuranceMap": {
+          "10": [
+            {
+              "skuId": 1644506615,
+              "actualPrice": 36800,
+              "insuranceCode": 10,
+              "insurancePrice": 1840,
+              "sellerUserId": 442921819
+            }
+          ]
+        },
+        "xdSkuId": "11ie6yw6",
+        "img": "https://s11.mogucdn.com/mlcdn/55cf19/210909_621dek8jd4l7ljg4ihi2ili6fge83_771x771.jpg"
+      },
+      {
+        "nowprice": 36800,
+        "stock": 300,
+        "color": "#5d762a",
+        "sizeId": 101,
+        "insuranceMap": {
+          "10": [
+            {
+              "skuId": 1644506613,
+              "actualPrice": 36800,
+              "insuranceCode": 10,
+              "insurancePrice": 1840,
+              "sellerUserId": 442921819
+            }
+          ]
+        },
+        "stockId": "11ie6yw2",
+        "xdSkuId": "11ie6yw2",
+        "currency": "¥",
+        "style": "军绿色",
+        "size": "M",
+        "styleId": 2,
+        "price": 37800,
+        "img": "https://s11.mogucdn.com/mlcdn/55cf19/210909_621dek8jd4l7ljg4ihi2ili6fge83_771x771.jpg"
+      },
+      {
+        "xdSkuId": "11ie6yw0",
+        "stock": 300,
+        "color": "#5d762a",
+        "styleId": 2,
+        "sizeId": 102,
+        "insuranceMap": {
+          "10": [
+            {
+              "skuId": 1644506612,
+              "actualPrice": 36800,
+              "insuranceCode": 10,
+              "insurancePrice": 1840,
+              "sellerUserId": 442921819
+            }
+          ]
+        },
+        "stockId": "11ie6yw0",
+        "price": 37800,
+        "nowprice": 36800,
+        "img": "https://s11.mogucdn.com/mlcdn/55cf19/210909_621dek8jd4l7ljg4ihi2ili6fge83_771x771.jpg",
+        "currency": "¥",
+        "style": "军绿色",
+        "size": "L"
+      },
+      {
+        "xdSkuId": "11ie6yw4",
+        "price": 37800,
+        "currency": "¥",
+        "color": "#5d762a",
+        "styleId": 2,
+        "insuranceMap": {
+          "10": [
+            {
+              "skuId": 1644506614,
+              "actualPrice": 36800,
+              "insuranceCode": 10,
+              "insurancePrice": 1840,
+              "sellerUserId": 442921819
+            }
+          ]
+        },
+        "stockId": "11ie6yw4",
+        "nowprice": 36800,
+        "img": "https://s11.mogucdn.com/mlcdn/55cf19/210909_621dek8jd4l7ljg4ihi2ili6fge83_771x771.jpg",
+        "stock": 300,
+        "style": "军绿色",
+        "size": "XL",
+        "sizeId": 103
+      },
+      {
+        "insuranceMap": {
+          "10": [
+            {
+              "insurancePrice": 1840,
+              "sellerUserId": 442921819,
+              "skuId": 1644506616,
+              "actualPrice": 36800,
+              "insuranceCode": 10
+            }
+          ]
+        },
+        "stockId": "11ie6yw8",
+        "price": 37800,
+        "nowprice": 36800,
+        "stock": 300,
+        "style": "军绿色",
+        "size": "3XL",
+        "styleId": 2,
+        "xdSkuId": "11ie6yw8",
+        "img": "https://s11.mogucdn.com/mlcdn/55cf19/210909_621dek8jd4l7ljg4ihi2ili6fge83_771x771.jpg",
+        "currency": "¥",
+        "color": "#5d762a",
+        "sizeId": 104
+      },
+      {
+        "price": 37800,
+        "nowprice": 36800,
+        "img": "https://s11.mogucdn.com/mlcdn/55cf19/210909_621dek8jd4l7ljg4ihi2ili6fge83_771x771.jpg",
+        "currency": "¥",
+        "style": "军绿色",
+        "styleId": 2,
+        "sizeId": 105,
+        "insuranceMap": {
+          "10": [
+            {
+              "sellerUserId": 442921819,
+              "skuId": 1644506617,
+              "actualPrice": 36800,
+              "insuranceCode": 10,
+              "insurancePrice": 1840
+            }
+          ]
+        },
+        "stockId": "11ie6ywa",
+        "xdSkuId": "11ie6ywa",
+        "stock": 300,
+        "color": "#5d762a",
+        "size": "2XL"
+      },
+      {
+        "stockId": "11ie6ywq",
+        "xdSkuId": "11ie6ywq",
+        "currency": "¥",
+        "stock": 300,
+        "styleId": 3,
+        "insuranceMap": {
+          "10": [
+            {
+              "actualPrice": 36800,
+              "insuranceCode": 10,
+              "insurancePrice": 1840,
+              "sellerUserId": 442921819,
+              "skuId": 1644506625
+            }
+          ]
+        },
+        "price": 37800,
+        "nowprice": 36800,
+        "img": "https://s5.mogucdn.com/mlcdn/55cf19/210909_74ai0fl538k61dl1gljjc6j49dc7j_800x800.jpg",
+        "style": "卡其色",
+        "color": "#c3b091",
+        "size": "S",
+        "sizeId": 100
+      },
+      {
+        "stockId": "11ie6ywo",
+        "xdSkuId": "11ie6ywo",
+        "price": 37800,
+        "nowprice": 36800,
+        "stock": 300,
+        "size": "M",
+        "styleId": 3,
+        "sizeId": 101,
+        "insuranceMap": {
+          "10": [
+            {
+              "skuId": 1644506624,
+              "actualPrice": 36800,
+              "insuranceCode": 10,
+              "insurancePrice": 1840,
+              "sellerUserId": 442921819
+            }
+          ]
+        },
+        "img": "https://s5.mogucdn.com/mlcdn/55cf19/210909_74ai0fl538k61dl1gljjc6j49dc7j_800x800.jpg",
+        "currency": "¥",
+        "style": "卡其色",
+        "color": "#c3b091"
+      },
+      {
+        "insuranceMap": {
+          "10": [
+            {
+              "actualPrice": 36800,
+              "insuranceCode": 10,
+              "insurancePrice": 1840,
+              "sellerUserId": 442921819,
+              "skuId": 1644506626
+            }
+          ]
+        },
+        "nowprice": 36800,
+        "stock": 300,
+        "color": "#c3b091",
+        "size": "L",
+        "styleId": 3,
+        "style": "卡其色",
+        "sizeId": 102,
+        "stockId": "11ie6yws",
+        "xdSkuId": "11ie6yws",
+        "price": 37800,
+        "img": "https://s5.mogucdn.com/mlcdn/55cf19/210909_74ai0fl538k61dl1gljjc6j49dc7j_800x800.jpg",
+        "currency": "¥"
+      },
+      {
+        "stockId": "11ie6ywu",
+        "xdSkuId": "11ie6ywu",
+        "nowprice": 36800,
+        "img": "https://s5.mogucdn.com/mlcdn/55cf19/210909_74ai0fl538k61dl1gljjc6j49dc7j_800x800.jpg",
+        "color": "#c3b091",
+        "sizeId": 103,
+        "insuranceMap": {
+          "10": [
+            {
+              "skuId": 1644506627,
+              "actualPrice": 36800,
+              "insuranceCode": 10,
+              "insurancePrice": 1840,
+              "sellerUserId": 442921819
+            }
+          ]
+        },
+        "price": 37800,
+        "currency": "¥",
+        "stock": 300,
+        "style": "卡其色",
+        "size": "XL",
+        "styleId": 3
+      },
+      {
+        "stockId": "11ie6ywy",
+        "price": 37800,
+        "img": "https://s5.mogucdn.com/mlcdn/55cf19/210909_74ai0fl538k61dl1gljjc6j49dc7j_800x800.jpg",
+        "currency": "¥",
+        "stock": 300,
+        "insuranceMap": {
+          "10": [
+            {
+              "skuId": 1644506629,
+              "actualPrice": 36800,
+              "insuranceCode": 10,
+              "insurancePrice": 1840,
+              "sellerUserId": 442921819
+            }
+          ]
+        },
+        "xdSkuId": "11ie6ywy",
+        "nowprice": 36800,
+        "style": "卡其色",
+        "color": "#c3b091",
+        "size": "3XL",
+        "styleId": 3,
+        "sizeId": 104
+      },
+      {
+        "insuranceMap": {
+          "10": [
+            {
+              "insuranceCode": 10,
+              "insurancePrice": 1840,
+              "sellerUserId": 442921819,
+              "skuId": 1644506628,
+              "actualPrice": 36800
+            }
+          ]
+        },
+        "xdSkuId": "11ie6yww",
+        "price": 37800,
+        "img": "https://s5.mogucdn.com/mlcdn/55cf19/210909_74ai0fl538k61dl1gljjc6j49dc7j_800x800.jpg",
+        "currency": "¥",
+        "stock": 300,
+        "styleId": 3,
+        "sizeId": 105,
+        "stockId": "11ie6yww",
+        "nowprice": 36800,
+        "style": "卡其色",
+        "color": "#c3b091",
+        "size": "2XL"
+      },
+      {
+        "stockId": "11ie6yx0",
+        "xdSkuId": "11ie6yx0",
+        "nowprice": 36800,
+        "currency": "¥",
+        "stock": 300,
+        "insuranceMap": {
+          "10": [
+            {
+              "skuId": 1644506630,
+              "actualPrice": 36800,
+              "insuranceCode": 10,
+              "insurancePrice": 1840,
+              "sellerUserId": 442921819
+            }
+          ]
+        },
+        "price": 37800,
+        "img": "https://s11.mogucdn.com/mlcdn/55cf19/210909_2c59bfcj1l8clic4b62j059egdjea_800x800.jpg",
+        "style": "湖绿色",
+        "color": "",
+        "size": "S",
+        "styleId": 4,
+        "sizeId": 100
+      },
+      {
+        "color": "",
+        "size": "M",
+        "styleId": 4,
+        "sizeId": 101,
+        "insuranceMap": {
+          "10": [
+            {
+              "skuId": 1644506631,
+              "actualPrice": 36800,
+              "insuranceCode": 10,
+              "insurancePrice": 1840,
+              "sellerUserId": 442921819
+            }
+          ]
+        },
+        "xdSkuId": "11ie6yx2",
+        "currency": "¥",
+        "nowprice": 36800,
+        "img": "https://s11.mogucdn.com/mlcdn/55cf19/210909_2c59bfcj1l8clic4b62j059egdjea_800x800.jpg",
+        "stock": 300,
+        "style": "湖绿色",
+        "stockId": "11ie6yx2",
+        "price": 37800
+      },
+      {
+        "price": 37800,
+        "nowprice": 36800,
+        "img": "https://s11.mogucdn.com/mlcdn/55cf19/210909_2c59bfcj1l8clic4b62j059egdjea_800x800.jpg",
+        "stock": 300,
+        "color": "",
+        "size": "L",
+        "insuranceMap": {
+          "10": [
+            {
+              "actualPrice": 36800,
+              "insuranceCode": 10,
+              "insurancePrice": 1840,
+              "sellerUserId": 442921819,
+              "skuId": 1644506632
+            }
+          ]
+        },
+        "xdSkuId": "11ie6yx4",
+        "currency": "¥",
+        "style": "湖绿色",
+        "styleId": 4,
+        "sizeId": 102,
+        "stockId": "11ie6yx4"
+      },
+      {
+        "stockId": "11ie6yx6",
+        "xdSkuId": "11ie6yx6",
+        "nowprice": 36800,
+        "img": "https://s11.mogucdn.com/mlcdn/55cf19/210909_2c59bfcj1l8clic4b62j059egdjea_800x800.jpg",
+        "color": "",
+        "styleId": 4,
+        "insuranceMap": {
+          "10": [
+            {
+              "skuId": 1644506633,
+              "actualPrice": 36800,
+              "insuranceCode": 10,
+              "insurancePrice": 1840,
+              "sellerUserId": 442921819
+            }
+          ]
+        },
+        "price": 37800,
+        "currency": "¥",
+        "stock": 300,
+        "style": "湖绿色",
+        "size": "XL",
+        "sizeId": 103
+      },
+      {
+        "nowprice": 36800,
+        "img": "https://s11.mogucdn.com/mlcdn/55cf19/210909_2c59bfcj1l8clic4b62j059egdjea_800x800.jpg",
+        "color": "",
+        "size": "3XL",
+        "insuranceMap": {
+          "10": [
+            {
+              "skuId": 1644506635,
+              "actualPrice": 36800,
+              "insuranceCode": 10,
+              "insurancePrice": 1840,
+              "sellerUserId": 442921819
+            }
+          ]
+        },
+        "stockId": "11ie6yxa",
+        "xdSkuId": "11ie6yxa",
+        "price": 37800,
+        "styleId": 4,
+        "sizeId": 104,
+        "currency": "¥",
+        "stock": 300,
+        "style": "湖绿色"
+      },
+      {
+        "stock": 300,
+        "style": "湖绿色",
+        "size": "2XL",
+        "insuranceMap": {
+          "10": [
+            {
+              "skuId": 1644506634,
+              "actualPrice": 36800,
+              "insuranceCode": 10,
+              "insurancePrice": 1840,
+              "sellerUserId": 442921819
+            }
+          ]
+        },
+        "price": 37800,
+        "nowprice": 36800,
+        "img": "https://s11.mogucdn.com/mlcdn/55cf19/210909_2c59bfcj1l8clic4b62j059egdjea_800x800.jpg",
+        "currency": "¥",
+        "color": "",
+        "styleId": 4,
+        "sizeId": 105,
+        "stockId": "11ie6yx8",
+        "xdSkuId": "11ie6yx8"
+      }
+    ],
+    "props": [
+      {
+        "isDefault": false,
+        "label": "颜色",
+        "list": [
+          {
+            "type": "style",
+            "name": "米白色",
+            "isDefault": false,
+            "styleId": 1,
+            "index": 1
+          },
+          {
+            "type": "style",
+            "name": "军绿色",
+            "isDefault": false,
+            "styleId": 2,
+            "index": 2
+          },
+          {
+            "type": "style",
+            "name": "卡其色",
+            "isDefault": false,
+            "styleId": 3,
+            "index": 3
+          },
+          {
+            "type": "style",
+            "name": "湖绿色",
+            "isDefault": false,
+            "styleId": 4,
+            "index": 4
+          }
+        ]
+      },
+      {
+        "label": "尺码",
+        "list": [
+          {
+            "type": "size",
+            "name": "S",
+            "isDefault": false,
+            "sizeId": 100,
+            "index": 100
+          },
+          {
+            "isDefault": false,
+            "sizeId": 101,
+            "index": 101,
+            "type": "size",
+            "name": "M"
+          },
+          {
+            "type": "size",
+            "name": "L",
+            "isDefault": false,
+            "sizeId": 102,
+            "index": 102
+          },
+          {
+            "name": "XL",
+            "isDefault": false,
+            "sizeId": 103,
+            "index": 103,
+            "type": "size"
+          },
+          {
+            "type": "size",
+            "name": "3XL",
+            "isDefault": false,
+            "sizeId": 104,
+            "index": 104
+          },
+          {
+            "type": "size",
+            "name": "2XL",
+            "isDefault": false,
+            "sizeId": 105,
+            "index": 105
+          }
+        ],
+        "isDefault": false
+      }
+    ],
+    "styleKey": "颜色",
+    "priceRange": "¥368.00",
+    "totalStock": 7200,
+    "canInstallment": false,
+    "promotionExtraParams": {
+      "shopTags": "600,1645,1856,1935,2000,3888,9898,30000,30001",
+      "cids": "#682# #683# #684# #695#"
+    },
+    "showDelayTime": false,
+    "title": "冬季新款仿狐狸毛皮草派克服女短款外套大衣兔毛内胆可脱卸",
+    "sizeKey": "尺码",
+    "isJdItem": false,
+    "defaultPrice": "¥368.00",
+    "promotionItemTags": "[{\"id\":332760252,\"itemId\":696875300,\"tagKey\":\"pp\",\"tagValue\":\"tag:16\",\"market\":0,\"source\":\"snail\",\"startTime\":1631628000,\"endTime\":1631894399,\"bizType\":16,\"bizId\":\"26596389\",\"valueType\":2,\"businessType\":1,\"created\":1631585388,\"updated\":1631585388,\"isDeleted\":0},{\"id\":332760253,\"itemId\":696875300,\"tagKey\":\"pp\",\"tagValue\":\"tag:166\",\"market\":0,\"source\":\"snail\",\"startTime\":1631628000,\"endTime\":1631894399,\"bizType\":166,\"bizId\":\"26596389\",\"valueType\":2,\"businessType\":1,\"created\":1631585388,\"updated\":1631585388,\"isDeleted\":0}]",
+    "autoCouponInfo": {
+      "nextBtnText": "",
+      "defaultText": "立即购买",
+      "showBtnText": "立即购买",
+      "jsonExtra": "{\"pp\":\"tag:166\",\"goods_last_on_shelf\":\"2021-09-10 18:05:52.488\",\"back\":\"java\",\"from\":\"sell\",\"source\":8,\"hd\":\"st:1631628000|ci:700025002730|ws:1631376000|tp:2|mk:8|et:1631894399|dc:36800|nm:活动价|\",\"goods_on_shelf\":\"2021-09-10 18:05:52.488\",\"tags\":\"16,166,1854\"}",
+      "promotionItemTags": "[{\"id\":332760252,\"itemId\":696875300,\"tagKey\":\"pp\",\"tagValue\":\"tag:16\",\"market\":0,\"source\":\"snail\",\"startTime\":1631628000,\"endTime\":1631894399,\"bizType\":16,\"bizId\":\"26596389\",\"valueType\":2,\"businessType\":1,\"created\":1631585388,\"updated\":1631585388,\"isDeleted\":0},{\"id\":332760253,\"itemId\":696875300,\"tagKey\":\"pp\",\"tagValue\":\"tag:166\",\"market\":0,\"source\":\"snail\",\"startTime\":1631628000,\"endTime\":1631894399,\"bizType\":166,\"bizId\":\"26596389\",\"valueType\":2,\"businessType\":1,\"created\":1631585388,\"updated\":1631585388,\"isDeleted\":0}]",
+      "sellerId": "19pds4y",
+      "isDisable": false,
+      "btnText": "领券购买"
+    },
+    "insuranceMait": [
+      {
+        "_system_rt_click_pv_1d": 0,
+        "_system_click_uv_15d": 0,
+        "_system_expose_pv_30d": 0,
+        "_system_click_uv_7d": 0,
+        "_system_rt_expose_pv_1d": 0,
+        "insuranceCode": "10",
+        "_system_expose_pv_1d": 0,
+        "insuranceCodeForBill": "yiwaihuanxin",
+        "_material_end_time": 2147483647,
+        "explainXcxUrl": "https://act.mogu.com/yiwaihuanxin202008",
+        "_system_rt_click_uv_1d": 0,
+        "_system_expose_uv_15d": 0,
+        "name": "意外换新",
+        "_system_record_entry_id": "566834",
+        "_system_click_pv_15d": 0,
+        "explainURL": "https://act.mogu.com/yiwaihuanxin202008",
+        "startTime": 1587544218,
+        "_material_start_time": 1587544218,
+        "_system_click_uv_1d": 0,
+        "_system_expose_uv_7d": 0,
+        "desc": "衣物意外破损五折换新",
+        "_system_sort": 1,
+        "_system_click_pv_1d": 0,
+        "_system_click_uv_30d": 0,
+        "_system_expose_uv_30d": 0,
+        "_system_expose_pv_7d": 0,
+        "_system_click_pv_7d": 0,
+        "endTime": 2147483647,
+        "_system_expose_pv_15d": 0,
+        "acm": "3.mce.1_10_1oasc.145273.0.5KcplsJ2vyLB5.pos_0-m_566834-sd_119",
+        "_system_expose_uv_1d": 0,
+        "_system_click_pv_30d": 0
+      },
+      {
+        "_system_record_entry_id": "566835",
+        "_material_end_time": 2147483647,
+        "_system_expose_pv_7d": 0,
+        "_system_rt_click_uv_1d": 0,
+        "_system_expose_uv_1d": 0,
+        "_system_click_uv_15d": 0,
+        "desc": "全新未拆封过期可赔现金",
+        "_system_sort": 1,
+        "_system_click_uv_1d": 0,
+        "explainXcxUrl": "https://act.mogu.com/tunhuowuyou202008",
+        "_system_expose_pv_1d": 0,
+        "_system_click_uv_7d": 0,
+        "name": "囤货无忧",
+        "_system_click_pv_7d": 0,
+        "_system_click_pv_15d": 0,
+        "_system_expose_uv_30d": 0,
+        "_system_expose_uv_7d": 0,
+        "_system_click_pv_1d": 0,
+        "_system_rt_expose_pv_1d": 0,
+        "_system_expose_pv_30d": 0,
+        "_system_click_pv_30d": 0,
+        "_system_click_uv_30d": 0,
+        "startTime": 1587544261,
+        "_system_rt_click_pv_1d": 0,
+        "_system_expose_uv_15d": 0,
+        "acm": "3.mce.1_10_1oase.145273.0.5KcplsJ2vyLB6.pos_1-m_566835-sd_119",
+        "_material_start_time": 1587544261,
+        "insuranceCodeForBill": "tunhuowuyou",
+        "endTime": 2147483647,
+        "_system_expose_pv_15d": 0,
+        "explainURL": "https://act.mogu.com/tunhuowuyou202008",
+        "insuranceCode": "11"
+      }
+    ]
+  },
+  "bottomBar": {
+    "buttons": [
+      { "type": "icon", "name": "shop", "text": "店铺" },
+      { "type": "im", "name": "im", "text": "客服" },
+      { "type": "icon", "name": "fav", "text": "收藏" },
+      {
+        "text": "加入购物车",
+        "isDisabled": false,
+        "type": "button",
+        "name": "cart"
+      },
+      {
+        "type": "button",
+        "name": "buy",
+        "text": "立即购买",
+        "isDisabled": false
+      }
+    ]
+  },
+  "rateInfo": { "cRate": 0, "imgTotal": 0, "sales": 0 },
+  "officialSelect": { "_extra_control_hide_": true },
+  "crossShopDiscount": { "_extra_control_hide_": true },
+  "rateInfoV2": {
+    "cRate": 0,
+    "imgTotal": 0,
+    "sales": 0,
+    "needDSR": true,
+    "cScore": ""
+  },
+  "officialRecommend": {},
+  "normalShareInfo": {
+    "title": "冬季新款仿狐狸毛皮草派克服女短款外套大衣兔毛内胆可脱卸",
+    "content": "亲爱的～这件宝贝不错哦，快进来看看吧～",
+    "url": "//h5.mogu.com/detail-normal/index.html?itemId=1n1sww0&from=share",
+    "imageUrl": "https://s11.mogucdn.com/mlcdn/9620b1/210914_5d7gb96840ia6kggi40jd7312ilgh_750x1000.png"
+  },
+  "platformCoupons": {
+    "couponInfo": { "title": "", "couponList": [] },
+    "popoverPlatformCoupons": { "title": "", "list": [] }
+  },
+  "userInfo": {
+    "userId": "19pds4y",
+    "isSelf": false,
+    "shopId": "1172wav0",
+    "systemTime": 1631669657,
+    "xcxType": "H5",
+    "xcxVersion": 10,
+    "isLogin": false,
+    "admin": false,
+    "sellerId": "19pds4y"
+  },
+  "shareInfo": {
+    "shareLottery": false,
+    "shareLog": true,
+    "shareIntegralInfo": {
+      "ruleTitle": "",
+      "color": "#333333",
+      "strongColor": "",
+      "newTitleImage": "",
+      "bgImage": "",
+      "friendsIcon": "https://s3.mogucdn.com/mlcdn/c45406/180316_3654j24hf87f75j2e27ijjh60jllf_110x110.png",
+      "momentsIcon": "https://s17.mogucdn.com/mlcdn/c45406/180316_145ilek69006jeah5gdk9669il6hd_110x110.png",
+      "titleIcon": "",
+      "shareIcon": "",
+      "title": "",
+      "ruleLink": "",
+      "rules": []
+    },
+    "shareLotteryInfo": {
+      "relationKey": "YOZhgdkPY/IPOy0DEywC9g==",
+      "bg": "https://s10.mogucdn.com/mlcdn/c45406/180320_5i652adg4dke998412f88kf8lb0a6_630x714.png",
+      "btnColor": "#fe8605",
+      "btnText": "知道了"
+    },
+    "isNeedShareIntegral": false,
+    "shareIntegral": false
+  },
+  "normalPriceV2": {
+    "eventPrice": "",
+    "eventTags": [],
+    "extraDesc": "",
+    "couponPrice": "",
+    "priceColor": "#333333",
+    "priceTags": [
+      { "text": "9.15价", "bgColor": "#FFE8EE", "textColor": "#FF2255" }
+    ],
+    "priceTopTags": [],
+    "mobilePrice": "",
+    "oldPrice": "",
+    "highPriceDesc": "起",
+    "priceSplit": "~",
+    "currency": "¥",
+    "eventPriceDesc": { "bgColor": "#FFE8EE", "textColor": "#FF2255" },
+    "nowPrice": "368.00",
+    "highNowPrice": "",
+    "sales": "0",
+    "prePriceTag": { "bgColor": "#FFE8EE", "textColor": "#FF2255" },
+    "extraDescs": [],
+    "nowPriceNum": 36800,
+    "couponDesc": "",
+    "mobileDownloadLink": "",
+    "eventDesc": ""
+  },
+  "sizeHelper": { "title": "尺码推荐: 暂无", "entrance": "查看尺码表" },
+  "normalCountdown": {
+    "countdown": 224742,
+    "text": "距结束仅剩",
+    "image": "",
+    "isCountdomShow": true,
+    "titleColor": "#ffffff"
+  },
+  "skuBarInfo": {
+    "label": "颜色规格",
+    "type": "SKU_IMAGE",
+    "list": [
+      {
+        "label": "米白色",
+        "image": "https://s5.mogucdn.com/mlcdn/55cf19/210909_005fbfc6gijf2391kbi25bfl4097d_800x800.jpg",
+        "stockId": "11ie6ywc",
+        "color": "#eedeb0"
+      },
+      {
+        "image": "https://s11.mogucdn.com/mlcdn/55cf19/210909_621dek8jd4l7ljg4ihi2ili6fge83_771x771.jpg",
+        "stockId": "11ie6yw6",
+        "color": "#5d762a",
+        "label": "军绿色"
+      },
+      {
+        "stockId": "11ie6ywq",
+        "color": "#c3b091",
+        "label": "卡其色",
+        "image": "https://s5.mogucdn.com/mlcdn/55cf19/210909_74ai0fl538k61dl1gljjc6j49dc7j_800x800.jpg"
+      },
+      {
+        "image": "https://s11.mogucdn.com/mlcdn/55cf19/210909_2c59bfcj1l8clic4b62j059egdjea_800x800.jpg",
+        "stockId": "11ie6yx0",
+        "color": "",
+        "label": "湖绿色"
+      }
+    ],
+    "labelV2": "颜色\n规格"
+  },
+  "itemInfo": {
+    "priceChannel": 0,
+    "titleTags": [],
+    "highPrice": "368.00",
+    "lowNowPrice": "368.00",
+    "itemId": "1n1sww0",
+    "cids": "#682# #683# #684# #695#",
+    "saleType": 0,
+    "video": { "muted": false, "autoplay": false },
+    "numTags": ["16", "166", "1854"],
+    "virtualItemType": 0,
+    "titleTagsV2": [],
+    "desc": "2021年冬季新款仿狐狸毛皮草派克服女短款外套大衣兔毛内胆可脱卸",
+    "isFaved": false,
+    "saleStartTime": 0,
+    "seo": {
+      "title": "【冬季新款仿狐狸毛皮草派克服女短款外套大衣兔毛内胆可脱卸】-女装-皮草_上装_女装_服饰鞋包-衣然美定制-蘑菇街优店",
+      "keywords": "冬季新款仿狐狸毛皮草派克服女短款外套大衣兔毛内胆可脱卸",
+      "wap_url": "//m.mogujie.com/x6/detail/1n1sww0",
+      "description": "来自蘑菇街优店皮草_上装_女装_服饰鞋包家2021年冬季新款仿狐狸毛皮草派克服女短款外套大衣兔毛内胆可脱卸的冬季新款仿狐狸毛皮草派克服女短款外套大衣兔毛内胆可脱卸，发现当季女装和衣然美定制搭配心得。",
+      "alternate": "//m.mogujie.com/x6/detail/1n1sww0",
+      "links": "null",
+      "canonical": "//shop.mogujie.com/detail/1n1sww0",
+      "seo_noindex": "0"
+    },
+    "lowPrice": "368.00",
+    "highNowPrice": "368.00",
+    "pickforme": {
+      "name": "帮我选",
+      "icon": "https://s10.mogucdn.com/mlcdn/c45406/191218_762ibk3def84blec68cbe4le770df_54x54.png",
+      "link": "/pages/web/index?login=true&share=true&src=https%3A%2F%2Fh5.mogu.com%2Fpickforme%2Flaunch%2Findex.html%3FitemId%3D1n1sww0%26acm%3D3.mce.1_10_1nh28.143035.0.gjcZjsJ2vyLqE.pos_0-m_547572-sd_119",
+      "h5Link": "https://h5.mogu.com/pickforme/launch/index.html?itemId=1n1sww0&acm=3.mce.1_10_1nh28.143035.0.gjcZjsJ2vyLqE.pos_0-m_547572-sd_119",
+      "acm": "3.mce.1_10_1nh28.143035.0.gjcZjsJ2vyLqE.pos_0-m_547572-sd_119"
+    },
+    "title": "冬季新款仿狐狸毛皮草派克服女短款外套大衣兔毛内胆可脱卸",
+    "cFav": 0,
+    "state": 0,
+    "picTags": []
+  },
+  "buyerShopRecommend": { "_extra_control_hide_": true },
+  "orderCarousel": {
+    "displayTime": 2500,
+    "gapTime": 500,
+    "_extra_control_hide_": false,
+    "delayTime": 2000,
+    "fadeTime": 800
+  },
+  "saleTextInfo": { "name": "slogan" },
+  "saleTextInfoV2": { "name": "slogan" },
+  "detailInfo": {
+    "desc": "2021年冬季新款仿狐狸毛皮草派克服女短款外套大衣兔毛内胆可脱卸",
+    "detailImage": [
+      {
+        "key": "图文详情",
+        "anchor": "detail_info",
+        "list": [
+          "https://s5.mogucdn.com/mlcdn/55cf19/210909_802ha28c4g35k087l4bi913c7dfkd_750x124.jpg",
+          "https://s5.mogucdn.com/mlcdn/55cf19/210909_6h3k08e6ih6fji22i1al56lhkg83e_800x1115.jpg",
+          "https://s5.mogucdn.com/mlcdn/55cf19/210909_7f649hj96ik7j6l882dh9gl51b4gk_750x1036.jpg",
+          "https://s11.mogucdn.com/mlcdn/55cf19/210909_8111iikec3abb0l7k189fc5f002dj_750x1036.jpg",
+          "https://s11.mogucdn.com/mlcdn/55cf19/210909_29i34fbka7eb98ff6lh9ce99gje8k_750x1036.jpg",
+          "https://s5.mogucdn.com/mlcdn/55cf19/210909_4l5djhiacggd6f9kefbcbjade18ca_750x1036.jpg",
+          "https://s5.mogucdn.com/mlcdn/55cf19/210909_2b2ac3dcd7dj8idkb586c294f7cik_750x1036.jpg",
+          "https://s5.mogucdn.com/mlcdn/55cf19/210909_3868jleifbkla18k2ge0j4657g77h_750x1036.jpg",
+          "https://s11.mogucdn.com/mlcdn/55cf19/210909_6cf29k07g14dkghaah85b96a194lk_750x1036.jpg",
+          "https://s5.mogucdn.com/mlcdn/55cf19/210909_6beej3ce2809jl5c0ghk4ejik5976_750x1032.jpg",
+          "https://s5.mogucdn.com/mlcdn/55cf19/210909_3jfagibc19593ghje9i546ak62c8b_750x1033.jpg",
+          "https://s5.mogucdn.com/mlcdn/55cf19/210909_7aie779i2bjiekbdf2d7j3lcfi43l_750x1036.jpg",
+          "https://s5.mogucdn.com/mlcdn/55cf19/210909_407248jkh1ii494b23hbidlf38dba_750x1036.jpg",
+          "https://s5.mogucdn.com/mlcdn/55cf19/210909_1ijlcbgafb6605537b9dke95ikje3_750x1034.jpg",
+          "https://s11.mogucdn.com/mlcdn/55cf19/210909_3faefeeei9980caldgb8e02713a80_750x1035.jpg",
+          "https://s5.mogucdn.com/mlcdn/55cf19/210909_7jf4i73bg1fgh1jbg55fe627k67g3_750x1035.jpg",
+          "https://s5.mogucdn.com/mlcdn/55cf19/210909_82j6jfj2b464fb7ck7jgb4b8aeddi_750x1031.jpg",
+          "https://s5.mogucdn.com/mlcdn/55cf19/210909_78ldb7li278fcg0277jf71f1738h5_750x1037.jpg",
+          "https://s5.mogucdn.com/mlcdn/55cf19/210909_1ik9h9b6j5kghdclaa2jif4cfge4i_750x1034.jpg",
+          "https://s11.mogucdn.com/mlcdn/55cf19/210909_101gi632490fcha11cbd1il418j0g_750x1035.jpg",
+          "https://s5.mogucdn.com/mlcdn/55cf19/210909_5ae465f3e811bj9jb82k40ja40hec_750x1035.jpg",
+          "https://s11.mogucdn.com/mlcdn/55cf19/210909_313d84c7lh2agceg1j8a9kegf1d38_750x1031.jpg",
+          "https://s11.mogucdn.com/p2/170316/77101615_2hbi2aih2ecjaeg3eikjdia6206gb_1125x380.jpg"
+        ]
+      }
+    ],
+    "shopDecorate": {},
+    "splitDetailImage": true
+  },
+  "itemServices": {
+    "columns": [
+      {
+        "desc": "销量 0",
+        "icon": "https://s5.mogucdn.com/p1/161117/idid_ifrdkytcgbstoobummzdambqmeyde_512x512.png",
+        "name": "sales"
+      },
+      {
+        "name": "express",
+        "desc": "免邮费",
+        "icon": "https://s5.mogucdn.com/p1/161117/idid_ifqwgnbsmjsdoobummzdambqgyyde_512x512.png"
+      }
+    ],
+    "services": [
+      {
+        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=893",
+        "name": "72小时发货",
+        "icon": "https://s11.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+        "content": ""
+      },
+      {
+        "name": "7天无理由退货",
+        "icon": "https://s11.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+        "content": "物流签收后7天内买家可无理由退货，需满足退货条件",
+        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=892"
+      },
+      {
+        "content": "极速发货、送货保障，若发货时间晚于商家承诺时间或快递派送时间晚于平台标准，可获得延误补贴。",
+        "name": "延误必赔",
+        "icon": "https://s11.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png"
+      },
+      {
+        "icon": "https://s11.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+        "content": "订单退货完成且绑定用于提现的银行卡，根据实际发货与收货地址，预计可获6~18元运费补贴，以实际到账为准。",
+        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=927",
+        "name": "退货补运费"
+      },
+      {
+        "icon": "https://s11.mogucdn.com/mlcdn/c45406/180417_25kbfg1c3hdbd120394ji4b11bk2k_36x36.png",
+        "content": "",
+        "link": "https://www.mogu.com/rule/mogu?categoryId=326&ruleId=895",
+        "name": "全国包邮"
+      }
+    ]
+  },
+  "priceBanner": {
+    "highNowPrice": "",
+    "priceColor": "#ffffff",
+    "couponPrice": "",
+    "bgImage": "https://s11.mogucdn.com/mlcdn/c45406/210825_2hfkb28hjd143li83lbd5030be0e0_750x134.png",
+    "countdown": 224742,
+    "countdownText": "",
+    "type": "IN",
+    "currency": "¥",
+    "countdownTitle": "距结束",
+    "activityBannerImage": "https://s5.mogucdn.com/mlcdn/c45406/210825_64808l0bb5k9egd833j745g2dcf53_750x76.png",
+    "priceSplit": "~",
+    "couponDesc": "",
+    "countdownTitleColor": "#ffffff",
+    "titleTagImage": "https://s11.mogucdn.com/mlcdn/c45406/210825_5aig61f81ce2b517cgaf252l58d1d_116x36.png",
+    "oldPrice": "",
+    "priceTags": [
+      { "textColor": "#FF2255", "text": "9.15价", "bgColor": "#FFE8EE" }
+    ],
+    "eventPriceDesc": "",
+    "eventTags": [],
+    "highPriceDesc": "起",
+    "sales": "0",
+    "nowPrice": "368.00",
+    "eventPrice": ""
+  },
+  "tabpanelHideInfo": { "moduleTabpanelRecommend": false },
+  "installmentInfo": "",
+  "priceBannerV2": {
+    "highPriceDesc": "起",
+    "countdown": 224742,
+    "countdownTitleColor": "#ffffff",
+    "titleTagImage": "https://s11.mogucdn.com/mlcdn/c45406/210825_5aig61f81ce2b517cgaf252l58d1d_116x36.png",
+    "activityBannerImage": "https://s5.mogucdn.com/mlcdn/c45406/210825_64808l0bb5k9egd833j745g2dcf53_750x76.png",
+    "priceColor": "#ffffff",
+    "couponPrice": "",
+    "eventPriceDesc": "",
+    "eventTags": [],
+    "countdownText": "",
+    "sales": "0",
+    "currency": "¥",
+    "eventPrice": "",
+    "priceSplit": "~",
+    "highNowPrice": "",
+    "couponDesc": "",
+    "bgImage": "https://s11.mogucdn.com/mlcdn/c45406/210825_2hfkb28hjd143li83lbd5030be0e0_750x134.png",
+    "countdownTitle": "距结束",
+    "type": "IN",
+    "nowPrice": "368.00",
+    "oldPrice": "",
+    "priceTags": [
+      { "text": "9.15价", "bgColor": "#FFE8EE", "textColor": "#FF2255" }
+    ]
+  },
+  "addCartLottery": { "lotteryResult": [], "addCartTip": {}, "activityId": "" },
+  "actorDSR": { "_extra_control_hide_": true }
+}

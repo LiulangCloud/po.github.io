@@ -1,137 +1,145 @@
 <!DOCTYPE html>
 <html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="./bootstrap/css/bootstrap.css" />
+    <script src="https://cdn.bootcdn.net/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="./bootstrap/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="./CSS/index.css" />
+  </head>
 
-<head>
-  <meta charset="UTF-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Document</title>
-  <link rel="stylesheet" href="./bootstrap/css/bootstrap.css" />
-  <script src="https://cdn.bootcdn.net/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-  <script src="./bootstrap/js/bootstrap.min.js"></script>
-  <link rel="stylesheet" href="./CSS/index.css" />
-</head>
+  <body>
+    <div class="top">
+      <!-- 导航栏 start -->
+      <nav class="navbar navbar-expand-lg navbar-dark navbar-fixed-top bg-dark">
+        <div class="container">
+          <a class="navbar-brand" href="#">
+            <h1 style="font-family: Brush Script MT">Vagabondage</h1>
+          </a>
+          <button
+            class="navbar-toggler"
+            type="button"
+            data-toggle="collapse"
+            data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent"
+            aria-expanded="false"
+            aria-label="Toggle navigation"
+          >
+            <span class="navbar-toggler-icon"></span>
+          </button>
 
-<body>
-  <div class="top">
-    <!-- 导航栏 start -->
-    <nav class="navbar navbar-expand-lg navbar-dark navbar-fixed-top bg-dark">
-      <div class="container">
-        <a class="navbar-brand" href="#">
-          <h1 style="font-family: Brush Script MT">Vagabondage</h1>
-        </a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
-          aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-          <ul class="navbar-nav mr-auto">
-            <li class="nav-item active">
-              <a class="nav-link" href="#">我的首页 <span class="sr-only">(current)</span></a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">个人信息(没)</a>
-            </li>
-            <li class="nav-item dropdown">
-              <a class="nav-link">项目(没)</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#" tabindex="-1" aria-disabled="true">经验(没)</a>
-            </li>
-          </ul>
-          <form class="form-inline my-2 my-lg-0" disabled>
-            <!-- <a href="#" class="d-none d-xl-block"><img src="./images/fly.jpg" class="rounded-circle" width="70"
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+              <li class="nav-item active">
+                <a class="nav-link" href="#"
+                  >我的首页 <span class="sr-only">(current)</span></a
+                >
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">个人信息(没)</a>
+              </li>
+              <li class="nav-item dropdown">
+                <a class="nav-link">项目(没)</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#" tabindex="-1" aria-disabled="true"
+                  >经验(没)</a
+                >
+              </li>
+            </ul>
+            <form class="form-inline my-2 my-lg-0" disabled>
+              <!-- <a href="#" class="d-none d-xl-block"><img src="./images/fly.jpg" class="rounded-circle" width="70"
                 height="70" my-2 my-sm-0></a> -->
-          </form>
+            </form>
+          </div>
+        </div>
+      </nav>
+      <!-- 导航栏 end -->
+      <!-- 大块屏 start -->
+      <div class="jumbotron container my-2">
+        <h1 class="display-4 myh1">Welcome Here!</h1>
+        <div class="show container">
+          <div class="card">
+            <a href="#">
+              <p>Html+css</p>
+            </a>
+            <a href="#">
+              <p>Html+css</p>
+            </a>
+          </div>
+
+          <div class="card">
+            <a href="#">
+              <p>JavaScript</p>
+            </a>
+            <a href="#">
+              <p>JavaScript</p>
+            </a>
+          </div>
+
+          <div class="card">
+            <a href="./Project/Black-and-white/黑白块.html">
+              <p>别踩白块</p>
+            </a>
+            <a href="#">
+              <p>JS面向对象</p>
+            </a>
+          </div>
+
+          <div class="card">
+            <a href="#">
+              <p>jquery</p>
+            </a>
+            <a href="#">
+              <p>jquery</p>
+            </a>
+          </div>
+        </div>
+
+        <div class="show container mt-5">
+          <div class="card">
+            <a href="./Project/WeatherForecast/weather.html">
+              <p>天气预报</p>
+            </a>
+            <a href="#">
+              <p>Ajax</p>
+            </a>
+          </div>
+
+          <div class="card">
+            <a href="#">
+              <p>Bootstrap排版</p>
+            </a>
+            <a href="#">
+              <p>Bootstrap排版</p>
+            </a>
+          </div>
+
+          <div class="card">
+            <a href="./Project/login/login.html">
+              <p>登录</p>
+            </a>
+            <a href="./Project/movies/电影海报.html">
+              <p>海报</p>
+            </a>
+          </div>
+
+          <div class="card">
+            <a href="./Project/cloud-cat/dist/index.html">
+              <p>Cloud-Cat</p>
+            </a>
+            <a
+              href="./Project/cloudCat-City/unpackage/dist/build/h5/index.html"
+            >
+              <p>cloudCat-City</p>
+            </a>
+          </div>
         </div>
       </div>
-    </nav>
-    <!-- 导航栏 end -->
-    <!-- 大块屏 start -->
-    <div class="jumbotron container my-2">
-      <h1 class="display-4 myh1">Welcome Here!</h1>
-      <div class="show container">
-        <div class="card">
-          <a href="#">
-            <p>Html+css</p>
-          </a>
-          <a href="#">
-            <p>Html+css</p>
-          </a>
-        </div>
-
-        <div class="card">
-          <a href="#">
-            <p>JavaScript</p>
-          </a>
-          <a href="#">
-            <p>JavaScript</p>
-          </a>
-        </div>
-
-        <div class="card">
-          <a href="./Project/Black-and-white/黑白块.html">
-            <p>别踩白块</p>
-          </a>
-          <a href="#">
-            <p>JS面向对象</p>
-          </a>
-        </div>
-
-        <div class="card">
-          <a href="#">
-            <p>jquery</p>
-          </a>
-          <a href="#">
-            <p>jquery</p>
-          </a>
-        </div>
-
-      </div>
-
-      <div class="show container mt-5">
-
-        <div class="card">
-          <a href="./Project/WeatherForecast/weather.html">
-            <p>天气预报</p>
-          </a>
-          <a href="#">
-            <p>Ajax</p>
-          </a>
-        </div>
-
-        <div class="card">
-          <a href="#">
-            <p>Bootstrap排版</p>
-          </a>
-          <a href="#">
-            <p>Bootstrap排版</p>
-          </a>
-        </div>
-
-        <div class="card">
-          <a href="./Project/login/login.html">
-            <p>登录</p>
-          </a>
-          <a href="./Project/movies/电影海报.html">
-            <p>海报</p>
-          </a>
-        </div>
-
-        <div class="card">
-          <a href="./Project/cloud-cat/dist/index.html">
-            <p>Cloud-Cat</p>
-          </a>
-          <a href="#">
-            <p>Vue</p>
-          </a>
-        </div>
-
-      </div>
+      <!-- 大块屏 end -->
     </div>
-    <!-- 大块屏 end -->
-  </div>
-</body>
-
+  </body>
 </html>
